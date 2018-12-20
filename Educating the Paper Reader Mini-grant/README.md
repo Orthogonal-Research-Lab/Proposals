@@ -1,9 +1,9 @@
 # Educating the traditional academic paper reader: building a research-centric curriculum for scientific transparency
 
-## SUMMARY:  
+### Summary:  
 To promote multidisciplinary Open Science by augmenting traditional scientific documents with multimodal and accessible digital curricula.
 
-## DESCRIPTION:  
+### Description:  
 Orthogonal Research Laboratory is a multidisciplinary research enterprise involved in both Open Science and science communication. Aside from more conventional research outputs (papers presentations, and code), we utilize a website, YouTube channel, a Twitter/Facebook feed, and allied blog to reach both fellow scientists and the general public. While these resources are useful in terms of scientific communication and outreach, they often serve as mere appendages to our main research agenda. What is missing is a formal curriculum tied to research artifacts (papers and lectures) that would enhance our audience’s understanding of scientific concepts and methods presented in those artifacts. We would use a host of existing tools (videos, open badges, digital lab notebooks, open bibliographies) to augment the more conventional research outputs and enhance ideas that are hard to communicate using our current digital methods.
 
 While there has been discussion of reinventing the scientific paper, this project enables reinvention in several ways. Reinvention is enabled through the communication of technical details for a unit of scientific work (particularly statistical/computational analysis) in an interactive manner. There is often a gulf between the desire to use a cutting-edge or obscure method and the understanding of the audience, whether that be a peer reviewer or a more general audience. We seek to bridge this gap by providing the appropriate educational resources using multiple forms of presentation and evaluation. Another way to enable reinvention involves instruction in the practice of science. While effective presentation, peer review, and community building are also elements of understanding, these skills are often not imparted to young scholars. We seek to fill this void as well by offering educational resources that dovetail with enhanced technical understanding.
