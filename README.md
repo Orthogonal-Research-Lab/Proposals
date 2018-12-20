@@ -2,13 +2,15 @@
 
 Place for project and grant proposal development  
 
-GSoC 2019:
+GSoC 2019/Future Papers and Projects:  
 
-* UI/UX of Scientific Research.
+* UI/UX of Scientific Research.  
 
-* On noise, growth, and form.
+* On noise, growth, and form.  
 
-* Open Science theory.
+* Open Science theory.  
+
+* developmental Braitenberg vehicles.  
 
 
 Mozilla Mini-grant, November 30, 2018:  
