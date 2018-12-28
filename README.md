@@ -10,7 +10,7 @@ GSoC 2019/Future Papers and Projects:
 
 * Open Science theory.  
 
-* developmental Braitenberg vehicles.  
+* [developmental Braitenberg vehicles](https://github.com/Orthogonal-Research-Lab/Proposals/tree/master/GSoC%202018%20Project%20Description).  
 
 
 Mozilla Mini-grant, November 30, 2018:  
