@@ -1,8 +1,8 @@
-Thought-pad for Physical Intelligence, [FQXi "Intelligence in the Physical World"](https://fqxi.org/grants/large/initial) mini-grant.  
+Thought-pad for Physical Intelligence, [FQXi "Intelligence in the Physical World"](https://fqxi.org/grants/large/initial) full grant.  
 
-Initial application due on February 11th. Proposal should include the following:  
+Initial application due on February 11th [RFP](https://fqxi.org/data/documents/2018-Request-for-Proposals.pdf). Proposal should include the following:  
 
-* 300 - 500 word summary of the project, explicitly addressing why it is topical, foundational and unconventional 
+* 300 - 500 word summary of the project, explicitly addressing why it is topical, foundational and unconventional.  
 
 * draft budget with description not exceeding 200 words, including an approximate total cost over the life of the award and explanation of how funds would be spent.  
 
