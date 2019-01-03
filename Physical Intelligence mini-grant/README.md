@@ -19,6 +19,36 @@ Inspire investigations into the many connections between basic physical laws and
 * precursor call: Agency in the Physical World -- [RFP](https://fqxi.org/grants/large/awardees/list/2018).  
 
 Potential Questions:  
-How does the physical world shape intelligence (cognition) and intelligent-like processes (embryogenesis)?  
+How does the physical world shape intelligence (cognition) and intelligent-like processes (embryogenesis)? 
+
+
+A Theory of Physical Intelligence (PI):  
+
+Intelligence is an emergent property of complex systems; three main mechanisms: connectivity, adjacency, and constraints.  
+
+1) connectivity: interactions between individual units. Interactivity between individual units and environment.  
+
+2) adjacency: patterns of connectivity important. How long is the path between x and y? What is the adjacent possible for any position in the network?  
+
+3) constraints: connectivity dead-ends, regions of connectivity that are too sparse (signal loss) or too dense (signal noise), geometric barriers.  
+
+Proprioceptive/Haptic function as a metaphor:  
+
+* engage with physical environment of forces and resistances.  
+
+* create a model of space-time based on physical movements (moments of position -- from first to higher-order moments).  
+
+* physical movement and resistances are represented in this model of space-time.  
+
+* physical forces are mapped to shape of network -- representation is malleable, but so is environment.  
+
+* virtual environment can be used to modify physical-sensry mapping, break physical laws, or provide unexpected inputs.  
+
+Components:  
+
+* tangible user interface (TUI), artificial life model, virtual environment (_n_-D models).  
+
+* money for TUI, simulation, interface design, technology budget, salary, education/outreach component.   
+
 
 
