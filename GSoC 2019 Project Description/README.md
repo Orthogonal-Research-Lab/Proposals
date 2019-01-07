@@ -8,4 +8,4 @@
 
 **Skills:** open source development experience with C++, Python, Java. An interest in the underlying biological processes is essential. Applicants with strong abstract thinking abilities are preferred, as is previous background and/or interest in Cognitive Science research. Good communication skills and familiarity with open science practices are expected.  
 
-**Mentor:** Bradly Alicea [balicea@openworm.org](mailto:balicea@openworm.org)  
+**Mentor:** Bradly Alicea [bradly.alicea@outlook.com](mailto:bradly.alicea@outlook.com)  
