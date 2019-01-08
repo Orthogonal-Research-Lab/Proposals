@@ -50,5 +50,7 @@ Components:
 
 * money for TUI, simulation, interface design, technology budget, salary, education/outreach component.   
 
+* software will be made open, and executable from a Docker container.  
+
 
 
