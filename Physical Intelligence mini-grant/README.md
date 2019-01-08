@@ -4,6 +4,14 @@ Initial application due on February 11th [RFP](https://fqxi.org/data/documents/2
 
 * 300 - 500 word summary of the project, explicitly addressing why it is topical, foundational and unconventional.  
 
+Topicality: This theory of intelligence is applicable to developmental, percpetual, and cosmological domains. Physical Intelligence is flexible enough to operate both as a metaphor and in a more explicit form.  
+
+Foundational: This is a theory that merges the phenomenology and principles of motion with that of connectivity. It is these two mechanisms which work together to create a form of intelligence from physical inputs.  
+
+Unconventional: Intelligence is typically defined in terms of vision, learning, or language. Even in the area of brainless
+cognition, where information processing occurs without neuronal communication, the mechanism for collective intelligence is unclear.  
+
+
 * draft budget with description not exceeding 200 words, including an approximate total cost over the life of the award and explanation of how funds would be spent.  
 
 * Curriculum Vitae for each Principal Investigator, including: 1) education and employment history, 2) list of up to ﬁve previous publications relevant to the proposed research and ﬁve additional representative publications, 3) full publication list.  
