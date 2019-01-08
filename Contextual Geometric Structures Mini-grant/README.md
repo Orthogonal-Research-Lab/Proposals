@@ -1,5 +1,7 @@
 # Artificial Intelligence Using Contextual Geometric Structures  
 
+## Application for [Open AI mini-grant](https://aigrant.org/)
+
 ### Very Short Project Summary:  
 Contextual Geometric Structures (CGS) simulate the structural and cognitive aspects of human culture and the context it provides.
 
