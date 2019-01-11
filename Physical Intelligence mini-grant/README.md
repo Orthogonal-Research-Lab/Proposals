@@ -52,6 +52,10 @@ Proprioceptive/Haptic function as a metaphor:
 
 * virtual environment can be used to modify physical-sensry mapping, break physical laws, or provide unexpected inputs.  
 
+Measurement:
+
+* fold-change/intensity: a way to measure information and noise.  
+
 Components:  
 
 * tangible user interface (TUI), artificial life model, virtual environment (_n_-D models).  
