@@ -9,5 +9,5 @@ It may be that increasing aperiodicity may be due to an increase in the number o
 ### References:
 [1] Simpson, G.G. (1944). [Tempo and Mode in Evolution](https://www.cabdirect.org/cabdirect/abstract/19461602120). Columbia University Press, New York.
 
-[2] Alicea, B., Portegys, T.E., and Gordon, R. (2016). Information Isometry Technique Reveals Organizational Features in Developmental Cell Lineages. _bioRxiv_, [doi:10.1101/062539](http://www.biorxiv.org/content/early/2016/07/07/062539).
+[2] Alicea, B., Portegys, T.E., and Gordon, R. (2016). [Information Isometry Technique Reveals Organizational Features in Developmental Cell Lineages](http://www.biorxiv.org/content/early/2016/07/07/062539). _bioRxiv_, [doi:10.1101/062539](http://www.biorxiv.org/content/early/2016/07/07/062539).
 
