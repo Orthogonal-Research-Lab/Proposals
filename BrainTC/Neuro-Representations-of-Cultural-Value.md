@@ -1,6 +1,6 @@
-## Meta-brain Computational Models for Representing Cultural Diversity
-Bradly Alicea
-Orthogonal Research and Education Laboratory
+## Meta-brain Computational Models for Representing Cultural Diversity  
+Bradly Alicea  
+Orthogonal Research and Education Laboratory  
 
 With great relevance to the naturalistic study of behavior, the characterization of both the neural substrate and cognitive underpinnings of cultural content remain elusive. One approach is to define a network of neural correlates related to expressiveness of culture. Yet this does not capture the great variation between brains and, more specifically, across cultures. To meet these criteria, we introduce a representational construct called the meta-brain model. The meta-brain model characterizes the structure of collective neural and cognitive activity for specific concepts across individuals in a single context. This allows us to work from a characterization of all possible behaviors, with the most plausible being generated through individual experiences.
 
