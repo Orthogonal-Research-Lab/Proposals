@@ -41,10 +41,9 @@ We use the computational model of Artyomov, Meissner, and Chakraborty [16] to ap
 
 These rules create something we call a Triangular State Machine (TSM). The TSM maps the three types of behavior embedded in network arcs to numeric states: a state of “0” equals “off”, a state of “1” equals “on in trans”, and a state of “2” equals “on in cis”. Table 1 shows all possible ordinal paths and their corresponding states for an order 3 binary tree.  
 
-**Table 1.** All pairwise ordinal paths (network arcs) in an order 3 binary tree.  
-
-| Ordinal Path      | State          |
-|--------:|:-------:|:--------------:|
+**Table 1.** All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
+|Source |Destination| State          |
+|------------------:|:--------------:|
 |-        |0        |1               |
 |-        |0        |1               |
 |0        |00       |1               |
@@ -56,5 +55,58 @@ These rules create something we call a Triangular State Machine (TSM). The TSM m
 |00       |01       |2               |
 |10       |11       |2               |
 
+Triangular state machines can also be organized to show reciprocal connections between nodes. In such cases, the rules of the original tree hold, with the only difference being a potential regulatory mechanism between the mother and daughter gene(s).  
 
 
+**Figure 3.** An order-3 GRN with nodes acting in both cis and trans. INSET: an example of a TSM as network motif.  
+
+Each tree has an identity (0,1) that comes before the node identity (0,1). The leftmost node at order 3 in tree 0 is (000). An order 3 tree is classified as if it has four layers, but this order is discontinuous within a single tree depending on the amount of overlap between each tree. For an overlapping set of order 2 trees, nodes 00 and 01 belong to tree A and nodes 10 and 11 belong to tree B, but their order from left to right is 00, 10, 01, 11. This order is referred to as an introgressed order.   
+
+
+**Figure 4.** Two overlapping GRNs with introgressed nodes and ordered arcs forming a hierarchical compound model.  
+
+### Discussion  
+In the developmental program responsible for Drosophila eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [17]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [18], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [19, 20]. More generally, epigenetic landscapes [21] can be used to demonstrate switching as a function of differentiation and historical contingency.  
+
+## References:
+[1] Alberch, P., Gould, S.J., Oster, G.F., and Wake, D. (1979). Size and shape in ontogeny and phylogeny. _Paleobiology_, 5(3), 296.  
+
+[2] McKinney, M.L. and McNamara, J.K. (2013). Heterochrony and the evolution of ontogeny. Springer.  
+
+[3] Smith, K.K. (2001). Heterochrony revisited: the evolution of developmental sequences. _Biological Journal of the Linnean Society_, 73, 169-186. doi:10.1006/bij1.2001.0535.  
+
+[4] Williamson, D.I. (1992). Larvae and Evolution: towards a new zoology. Chapman and Hall, New York.  
+
+[5] Antonelli, P.L., Bradbury, R., Krivan, V., Shimada, H. (1993). A dynamical theory of heterochrony: Time-sequencing changes in ecology, development, and evolution. _Journal of Biological Systems_, 1(4), 451-487. doi:10.1142/S0218339093000264.  
+
+[6] Williamson, D.I. (2003). The Origins of Larvae. Kluwer Academic Publishers, London.  
+
+[7] Costedoat, C., Pech, N., Chappaz, R., and Gilles, A. (2007). Novelties in Hybrid Zones: crossroads between population genomic and ecological approaches. _PLoS One_, 2(4), e357.  
+
+[8] Begun, D.J. et al. (2007). Population genomics: whole-genome analysis of polymorphism and divergence in Drosophila simulans. _PLoS Biology_, 5(11), e310.  
+
+[9] Liu, J., Yu, L., Arnold, M.L., Wu, C-H., Wu, S-F., Lu, X., and Zhang, Y-P. (2011). Reticulate evolution: frequent introgressive hybridization among Chinese hares (genus Lepus) revealed by analyses of multiple mitochondrial and nuclear DNA loci. _BMC Evolutionary Biology_, 11, 223.  
+
+[10] Figueiro, H.V. et.al (2017). Genome-wide signatures of complex introgression and adaptive evolution in the big cats. _Science Advances_, 3(7), e1700299.  
+
+[11] Baack, E.J. and Rieseberg, L.H. (2007). A genomic view of introgression and hybrid speciation. _Current Opinion in Genetics and Development_, 17(6): 513–518.  
+
+[12] Combes, M-C., Hueber, Y., Dereeper, A., Rialle, S., Herrera, J-C., and Lashermes, P. (2015). Regulatory Divergence between Parental Alleles Determines Gene Expression Patterns in Hybrids. _Genome Biology and Evolution_, 7(4), 1110–1121.  
+
+[13] Boto, L. (2010). Horizontal gene transfer in evolution: facts and challenges. _Proceedings of the Royal Society B_, 277, 819-827.  
+
+[14] Huang, J. (2013). Horizontal gene transfer in eukaryotes: the weak-link model. _Bioessays_, 35(10), 868–875.  
+
+[15] Soucy, S.M., Huang, J., and Gogarten, J.P. (2015). Horizontal gene transfer: building the web of life. _Nature Reviews Genetics_, 16, 472-482.  
+
+[16] Artyomov, M.N., Meissner, A., and Chakraborty, A.K. (2010). A Model for Genetic and Epigenetic Regulatory Networks Identifies Rare Pathways for Transcription Factor Induced Pluripotency. _PLoS Computational Biology_, 6(5), e1000785.  
+
+[17] Graham, T.G.W., Ali Tabei, S.M., Dinner, A.R., and Rebay, I. (2010). Modeling bistable cell-fate choices in the Drosophila eye: qualitative and quantitative perspectives. _Development_, 137, 2265-2278.  
+
+[18]Chang, D-E., Leung, S., Atkinson, M.R., Reifler, A., Forger, D., and Ninfa, A.J. (2010). Building biological memory by linking positive feedback loops. _PNAS_, 107(1), 175–180.  
+
+[19] Huang, S., Eichler, G., Bar-Yam, Y. and Ingber, D. E. (2005). Cell fates as high-dimensional attractor states of a complex gene regulatory network. _Physical Review Letters_, 94, 128701.  
+
+[20] Siegal-Gaskins, D., Grotewold, E. and Smith, G. D. (2009). The capacity for multistability in small gene regulatory networks. _BMC Systems Biology_, 3, 96.  
+
+[21] Ferrell, J.E. (2012). Bistability, Bifurcations, and Waddington’s Epigenetic Landscape. _Current Biology_, 22, R458–R466.  
