@@ -1,12 +1,12 @@
 # Explaining Developmental Incongruity Through Heterochrony
 
 ## Abstract  
-The original theory of heterochrony [1,2] provides us with a generalized quantitative perspective on the dynamics of developmental trajectories. While useful, these developmental trajectories merely characterize changes in the speed and extent of growth in developmental time. More recent work on sequence heterochrony [3] reconsiders heterochrony as a series of developmental events such as tissue development or morphogenetic transformations positioned according to their relative occurrence. One open problem in the literature involves how to characterize developmental trajectories, particularly for rare modes of development such as proposed by [4]. By applying better representations of development along with the appropriate mathematical constructs, we hope to reveal interesting features of changes in growth given the plasticity and complexity of developmental timing.  
+The original theory of heterochrony [1,2] provides us with a generalized quantitative perspective on the dynamics of developmental trajectories. While useful, these developmental trajectories merely characterize changes in the speed and extent of growth in developmental time. More recent work on sequence heterochrony [3] reconsiders heterochrony as a series of developmental events such as tissue development or morphogenetic transformations positioned according to their relative occurrence. One open problem in the literature involves how to characterize developmental trajectories for rare and incongruous modes of development such as proposed by [4]. By applying suitable representations of development along with the appropriate mathematical constructs, we hope to reveal interesting features of changes in growth given the plasticity and complexity of developmental timing.  
 
 We will present a range of potential dynamical approaches to characterizing heterochrony [5] in a way that goes beyond existing models. Our approach is unique in that we reconsider the developmental trajectory as a series of autonomous developmental programs called triangular state machines (TSMs). With a focus on developmental timing, we will use formal techniques to characterize delays and bifurcations in the developmental trajectory. We also consider the role of multiple developmental programs operating either in parallel or serially that are able to characterize some of the immense diversity observed in animal development. Along the way, we will employ concepts such as delay dynamical equations and bifurcation theory that can enrich our understanding of heterochrony and complex developmental processes more generally.  
 
 ## Introduction  
-The theory of heterochrony provides a framework for characterizing the nature of growth relative to adaptive changes in phenotype expressed in development and indicative of evolutionary history. Taking a dynamical systems view of heterochrony allows us to characterize less common modes of growth and transformation during development called _developmental incongruities_. Two examples of developmental incongruities are metamorphosis and the presence of nervous system with both ancestral and derived components. In both of these cases, features such as delays and switches between stable developmental trajectories can explain such phenomena. These type of features are underlain by overlapping gene expression networks, which form something we call a triangular state machine (TSM). In short, TSMs produce one or more developmental trajectories, changes in which can be described using a dynamical systems approach. The solution to these systems can be mapped to a phenotypic model, and may explain complexity in the developmental process.
+The theory of heterochrony provides a framework for characterizing the nature of growth relative to adaptive changes in phenotype expressed in development and indicative of evolutionary history. Taking a dynamical systems view of heterochrony allows us to characterize less common modes of growth and transformation during development called _developmental incongruities_. Two examples of developmental incongruities are metamorphosis and the presence of nervous system with both ancestral and derived components. In both of these cases, features such as delays and switches between stable developmental trajectories can explain such phenomena. The dynamical view of heterochrony defines these phenomena in two ways: multiphasic heterochrony and compound heterochrony. These type of heterochrony in the developing phenotype are underlain by overlapping gene expression networks, which form something we call a triangular state machine (TSM). In short, TSMs produce one or more developmental trajectories, changes in which can be described using a dynamical systems approach. The solution to these systems can be mapped to a phenotypic model, and may explain complexity in the developmental process.
 
 ### Acquisition of Developmental Sequences  
 In Williamson [4], several examples are given (Echinoderms, Decapods, Trochophorates, and Bryozoans) with respect to incongruous larvae, or larvae stages that resemble those of distantly-related taxa. Two phylogenetic mechanisms [4, 6] have been proposed for developmental incongruity: hybridization and horizontal gene transfer. In the case of these mechanisms, there are two problems with purely empirical investigations. The first involves distinguishing between different larval stages originating in various species, particularly in terms of genetic control. Secondarily, there is a question of acquisition. While several candidate mechanisms are proposed, there is no theoretical model that explains such developmental incongruities.  
@@ -45,18 +45,18 @@ We use the computational model of Artyomov, Meissner, and Chakraborty [16] to ap
 These rules create something we call a Triangular State Machine (TSM). The TSM maps the three types of behavior embedded in network arcs to numeric states: a state of “0” equals “off”, a state of “1” equals “on in trans”, and a state of “2” equals “on in cis”. Table 1 shows all possible ordinal paths and their corresponding states for an order 3 binary tree.  
 
 **Table 1.** All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
-|Source |Destination| State          |
-|------------------:|:--------------:|
-|-        |0        |1               |
-|-        |0        |1               |
-|0        |00       |1               |
-|0        |01       |1               |
-|1        |10       |1               |
-|1        |11       |1               |
-|01       |10       |1               |
-|0        |1        |2               |
-|00       |01       |2               |
-|10       |11       |2               |
+|Source   |Destination| State          |
+|---------|----------:|:--------------:|
+|-        |0          |1               |
+|-        |0          |1               |
+|0        |00         |1               |
+|0        |01         |1               |
+|1        |10         |1               |
+|1        |11         |1               |
+|01       |10         |1               |
+|0        |1          |2               |
+|00       |01         |2               |
+|10       |11         |2               |
 
 Triangular state machines can also be organized to show reciprocal connections between nodes. In such cases, the rules of the original tree hold, with the only difference being a potential regulatory mechanism between the mother and daughter gene(s).  
 
