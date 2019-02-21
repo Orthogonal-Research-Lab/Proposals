@@ -18,11 +18,11 @@ Heterochrony can be defined as changes in the rate of change in development for 
 
 ### Predictions  
 
-**H1:** a reconstituted tree can be used to represent compound heterochrony (swap tree branch sets at a node between trees).  
+__H1:__ a reconstituted tree can be used to represent compound heterochrony (swap tree branch sets at a node between trees).  
 
-**H2:** a recombined tree can be used to represent compound heterochrony (file branch sets at a node within trees).  
+__H2:__ a recombined tree can be used to represent compound heterochrony (file branch sets at a node within trees).  
 
-**H3:** a differentially-stretched tree can be used to represent compound heterochrony (provides access to different parts of development).  
+__H3:__ a differentially-stretched tree can be used to represent compound heterochrony (provides access to different parts of development).  
 
 ## Results
 
@@ -63,7 +63,7 @@ Triangular state machines can also be organized to show reciprocal connections b
 <p align="center">
   <img width="1008" height="500" src="https://user-images.githubusercontent.com/38323286/53188983-1b5a1600-35cc-11e9-9dc7-8245b402391b.PNG">
 </p>
-**Figure 3.** An order-3 GRN with nodes acting in both cis and trans. INSET: an example of a TSM as network motif. Click to enlarge.
+**Figure 3.** An order-3 GRN with nodes acting in both cis and trans. INSET: an example of a TSM as network motif. Click to enlarge.  
 
 Each tree has an identity (0,1) that comes before the node identity (0,1). The leftmost node at order 3 in tree 0 is (000). An order 3 tree is classified as if it has four layers, but this order is discontinuous within a single tree depending on the amount of overlap between each tree. For an overlapping set of order 2 trees, nodes 00 and 01 belong to tree A and nodes 10 and 11 belong to tree B, but their order from left to right is 00, 10, 01, 11. This order is referred to as an introgressed order.   
 
