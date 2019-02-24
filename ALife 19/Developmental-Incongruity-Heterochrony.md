@@ -46,6 +46,7 @@ We use the computational model of Artyomov, Meissner, and Chakraborty [21] to ap
 These rules create something we call a Triangular State Machine (TSM). The TSM maps the three types of behavior embedded in network arcs to numeric states: a state of “0” equals “off”, a state of “1” equals “on in trans”, and a state of “2” equals “on in cis”. Table 1 shows all possible ordinal paths and their corresponding states for an order 3 binary tree.  
 
 __Table 1__ All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
+
 Source        |Destination   | State        
 :---:         |:---:         |:---:
 N/A           |0             |1             
