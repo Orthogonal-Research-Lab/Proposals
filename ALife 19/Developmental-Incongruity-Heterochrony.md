@@ -16,7 +16,8 @@ Related to these problems is whether multiple developmental stages accumulate th
 ### Expression of Developmental Sequences  
 Heterochrony can be defined as changes in the rate of change in development for a specific trait, the resulting acceleration or deceleration being a result of tweaks made to the expression of genes in any given genetic regulatory network (GRN). In many cases including the hybridization cases Williamson describes, heterochrony is quite fluid relative to a linear developmental sequence and life-history. This is even true to the extent that adult sequences from distant taxa can be present in a given species' life-history [4, 6] observes two types of overlapping body symmetry in modern Holothurian life-history. This overlap is due to heterochronic changes in the expression of each type of symmetry relative to their ancestral expression: radial symmetry is accelerated and expressed in late larvae, while the disappearance of bilateral symmetry is decelerated so that it persists throughout adulthood. Williamson [6] also observes what he calls "start again" developmental sequences. An example of this is found in Trochophores, which express a Bryozoan-typical juvenile period in its life-history.  
 
-### Predictions  
+### Assumptions  
+One way to interpret the interactions of developmental sequences is by treating then as a dynamical system. Based on _Drosophila_ embryogenesis, a number of studies suggest that development can be characterized as a dynamical system rather than a series of discrete programs executed serially. This view seems to conflict with convential views of heterochrony, so a series of assumptions need to be made in order to bridge the gap between the language of heterochrony and developmental dynamics.
 
 __H1:__ a reconstituted tree can be used to represent compound heterochrony (swap tree branch sets at a node between trees).  
 
