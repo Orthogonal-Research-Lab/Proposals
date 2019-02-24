@@ -33,11 +33,13 @@ We can go beyond the empirical work of Williamson and define two alternate model
 <p align="center">
   <img width="1008" height="500" src="https://user-images.githubusercontent.com/38323286/53188873-db932e80-35cb-11e9-84f8-8bb181b4a1b6.png">
 </p>
+
 __Figure 1__ A step-by-step description of multiphasic heterochrony, in which the larval form (caterpillar) dedifferentiates into an intermediate pupae. The developmental trajectories of two different programs expressed as two different parts of life history. A) the caterpillar developmental program is active early in life-history, B) an intermediate stage occurs where all existing structure is obliterated, C) the butterfly developmental program is active later in life history. Click to enlarge.
 
 <p align="center">
   <img width="1008" height="500" src="https://user-images.githubusercontent.com/38323286/53188958-0bdacd00-35cc-11e9-9f82-e1f4a1b722aa.png">
 </p>
+
 __Figure 2__ A step-by-step description of compound heterochrony, in which developmental trajectories from two different species overlap, resulting in a switch from one program to the other during the course of life history. A) the program from Species A is active early in life-history, B) a switch between developmental programs is activated, C) the program from species B is active later in life-history.  Click to enlarge.
 
 ### Computational Genetic Regulatory Network Model  
@@ -65,6 +67,7 @@ Triangular state machines can also be organized to show reciprocal connections b
 <p align="center">
   <img width="1008" height="500" src="https://user-images.githubusercontent.com/38323286/53188983-1b5a1600-35cc-11e9-9dc7-8245b402391b.PNG">
 </p>
+
 __Figure 3__ An order-3 GRN with nodes acting in both cis and trans. INSET: an example of a TSM as network motif. Click to enlarge.  
 
 Each tree has an identity (0,1) that comes before the node identity (0,1). The leftmost node at order 3 in tree 0 is (000). An order 3 tree is classified as if it has four layers, but this order is discontinuous within a single tree depending on the amount of overlap between each tree. For an overlapping set of order 2 trees, nodes 00 and 01 belong to tree A and nodes 10 and 11 belong to tree B, but their order from left to right is 00, 10, 01, 11. This order is referred to as an introgressed order.   
@@ -72,6 +75,7 @@ Each tree has an identity (0,1) that comes before the node identity (0,1). The l
 <p align="center">
   <img width="1008" height="500" src="https://user-images.githubusercontent.com/38323286/53189065-45abd380-35cc-11e9-81fb-34be4d99cc1a.PNG">
 </p>
+
 __Figure 4__ Two overlapping GRNs with introgressed nodes and ordered arcs forming a hierarchical compound model. Click to enlarge.
 
 ### Discussion  
