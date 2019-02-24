@@ -28,7 +28,7 @@ __H3:__ a differentially-stretched tree can be used to represent compound hetero
 ## Results
 
 ### Compound and Multiphasic Heterochrony  
-We can go beyond the empirical work of Williamson and define two alternate models for characterizing heterochrony in life-history: multiphasic and compound. Each type relies upon the presence of two different developmental programs in the same organism.  
+We can go beyond the empirical work of Williamson and define two alternate models for characterizing heterochrony in life-history: multiphasic and compound. Multiphasic heterochrony involves plastic responses to growth stimuli over developmental time. Compound heterochrony involves developmental trajectories inherited from multiple species. These types of heterochrony are demonstrated in Figures 1 and 2, respectively. Both of these types can also be characterized using a dynamical formulation of previous descriptions of heterochrony.  
 
 <p align="center">
   <img width="1008" height="500" src="https://user-images.githubusercontent.com/38323286/53188873-db932e80-35cb-11e9-84f8-8bb181b4a1b6.png">
@@ -47,7 +47,7 @@ These rules create something we call a Triangular State Machine (TSM). The TSM m
 
 __Table 1__ All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
 |Source   |Destination| State          |
-|--------:|:---------:|:--------------:|
+|---------|-----------|----------------|
 |-        |0          |1               |
 |-        |0          |1               |
 |0        |00         |1               |
