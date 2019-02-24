@@ -111,9 +111,9 @@ In the developmental program responsible for Drosophila eye morphogenesis, switc
 
 [17] Mora, T. and Bialek, W. (2011). Are Biological Systems Poised at Criticality? _Journal of Statistical Physics_, 144, 268–302.
 
-[18]
+[18] Dubuis, J.O., Tkacik, G., Wieschaus, E.F., Gregor, T., Bialek, W. (2013). Positional information, in bits. _PNAS_, 110(41), 16301-16308.
 
-[19]
+[19] Verd, B., Crombach, A., and Jaeger, J. (2017). Dynamic Maternal Gradients Control Timing and Shift-Rates for Drosophila Gap Gene Expression. PLoS Computational Biology, 13(2), e1005285.  
 
 [20]
 
