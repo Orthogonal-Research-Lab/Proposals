@@ -1,4 +1,4 @@
-# Explaining Developmental Incongruity Through Heterochrony
+# Explaining Developmental Incongruity Through Dynamical Heterochrony
 
 ## Abstract  
 The original theory of heterochrony [1,2] provides us with a generalized quantitative perspective on the dynamics of developmental trajectories. While useful, these developmental trajectories merely characterize changes in the speed and extent of growth in developmental time. More recent work on sequence heterochrony [3] reconsiders heterochrony as a series of developmental events such as tissue development or morphogenetic transformations positioned according to their relative occurrence. One open problem in the literature involves how to characterize developmental trajectories for rare and incongruous modes of development such as proposed by [4]. By applying suitable representations of development along with the appropriate mathematical constructs, we hope to reveal interesting features of changes in growth given the plasticity and complexity of developmental timing.  
@@ -109,7 +109,7 @@ In the developmental program responsible for Drosophila eye morphogenesis, switc
 
 [16] Krotov, D., Dubuis, J.O., Gregor, T., and Bialek, W. (2014). Morphogenesis at criticality. _PNAS_, 111(10), 3683–3688.  
 
-[17]
+[17] Mora, T. and Bialek, W. (2011). Are Biological Systems Poised at Criticality? _Journal of Statistical Physics_, 144, 268–302.
 
 [18]
 
