@@ -115,7 +115,7 @@ In the developmental program responsible for Drosophila eye morphogenesis, switc
 
 [19] Verd, B., Crombach, A., and Jaeger, J. (2017). Dynamic Maternal Gradients Control Timing and Shift-Rates for Drosophila Gap Gene Expression. PLoS Computational Biology, 13(2), e1005285.  
 
-[20]
+[20] Verd, B., Clark, E., Wotton, K.R., Janssens, H., Jimenez-Guri, E., Crombach, A., and Jaeger, J. (2018). A damped oscillator imposes temporal order on posterior gap gene expression in _Drosophila_. PLoS Biology, 16(2), e2003174.  
 
 [21] Artyomov, M.N., Meissner, A., and Chakraborty, A.K. (2010). A Model for Genetic and Epigenetic Regulatory Networks Identifies Rare Pathways for Transcription Factor Induced Pluripotency. _PLoS Computational Biology_, 6(5), e1000785.  
 
