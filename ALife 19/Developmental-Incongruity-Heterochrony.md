@@ -59,6 +59,11 @@ __Table 1__ All pairwise ordinal paths (network arcs) in an order 3 binary tree.
 |00       |01         |2               |
 |10       |11         |2               |
 
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+
+
 Triangular state machines can also be organized to show reciprocal connections between nodes. In such cases, the rules of the original tree hold, with the only difference being a potential regulatory mechanism between the mother and daughter gene(s).  
 
 <p align="center">
