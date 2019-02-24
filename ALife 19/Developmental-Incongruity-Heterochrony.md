@@ -47,7 +47,7 @@ These rules create something we call a Triangular State Machine (TSM). The TSM m
 
 __Table 1__ All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
 Source        |Destination   | State        
---------------|--------------|--------------
+:---:         |:---:         |:---:
 N/A           |0             |1             
 N/A           |0             |1             
 0             |00            |1             
