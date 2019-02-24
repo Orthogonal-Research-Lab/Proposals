@@ -17,7 +17,7 @@ Related to these problems is whether multiple developmental stages accumulate th
 Heterochrony can be defined as changes in the rate of change in development for a specific trait, the resulting acceleration or deceleration being a result of tweaks made to the expression of genes in any given genetic regulatory network (GRN). In many cases including the hybridization cases Williamson describes, heterochrony is quite fluid relative to a linear developmental sequence and life-history. This is even true to the extent that adult sequences from distant taxa can be present in a given species' life-history [4, 6] observes two types of overlapping body symmetry in modern Holothurian life-history. This overlap is due to heterochronic changes in the expression of each type of symmetry relative to their ancestral expression: radial symmetry is accelerated and expressed in late larvae, while the disappearance of bilateral symmetry is decelerated so that it persists throughout adulthood. Williamson [6] also observes what he calls "start again" developmental sequences. An example of this is found in Trochophores, which express a Bryozoan-typical juvenile period in its life-history.  
 
 ### Assumptions  
-One way to interpret the interactions of developmental sequences is by treating then as a dynamical system. Based on _Drosophila_ embryogenesis, a number of studies suggest that development can be characterized as a dynamical system rather than a series of discrete programs executed serially. This view seems to conflict with convential views of heterochrony, so a series of assumptions need to be made in order to bridge the gap between the language of heterochrony and developmental dynamics.
+One way to interpret the interactions of developmental sequences is by treating then as a dynamical system. Based on _Drosophila_ embryogenesis, a number of studies [16-20] suggest that development can be characterized as a dynamical system rather than a series of discrete programs executed serially. This view seems to conflict with convential views of heterochrony, so a series of assumptions need to be made in order to bridge the gap between the language of heterochrony and developmental dynamics.
 
 __H1:__ a reconstituted tree can be used to represent compound heterochrony (swap tree branch sets at a node between trees).  
 
@@ -41,7 +41,7 @@ __Figure 1__ A step-by-step description of multiphasic heterochrony, in which th
 __Figure 2__ A step-by-step description of compound heterochrony, in which developmental trajectories from two different species overlap, resulting in a switch from one program to the other during the course of life history. A) the program from Species A is active early in life-history, B) a switch between developmental programs is activated, C) the program from species B is active later in life-history.  Click to enlarge.
 
 ### Computational Genetic Regulatory Network Model  
-We use the computational model of Artyomov, Meissner, and Chakraborty [16] to approximate a suitable GRN. In this case, we represent the hierarchical GRN with a binary tree structure. Each node represents a hypothetical gene in its order of expression. Each level consist of hypothetical genes with equivalent order of expression. As a result, daughter genes at a single level of the binary tree are considered to be a single functional unit (cis) of DNA. By contrast, when a gene at one level turns on or off a gene at the next level, it is said to act in trans. This is because a binary division creates a new operon consisting of two genes: the mother gene activates the gene in trans and the daughter genes activate each other in cis. Lateral activations (within the same level of the tree) occurring between daughter pairs also activate each other in trans.  
+We use the computational model of Artyomov, Meissner, and Chakraborty [21] to approximate a suitable GRN. In this case, we represent the hierarchical GRN with a binary tree structure. Each node represents a hypothetical gene in its order of expression. Each level consist of hypothetical genes with equivalent order of expression. As a result, daughter genes at a single level of the binary tree are considered to be a single functional unit (cis) of DNA. By contrast, when a gene at one level turns on or off a gene at the next level, it is said to act in trans. This is because a binary division creates a new operon consisting of two genes: the mother gene activates the gene in trans and the daughter genes activate each other in cis. Lateral activations (within the same level of the tree) occurring between daughter pairs also activate each other in trans.  
 
 These rules create something we call a Triangular State Machine (TSM). The TSM maps the three types of behavior embedded in network arcs to numeric states: a state of “0” equals “off”, a state of “1” equals “on in trans”, and a state of “2” equals “on in cis”. Table 1 shows all possible ordinal paths and their corresponding states for an order 3 binary tree.  
 
@@ -74,7 +74,7 @@ Each tree has an identity (0,1) that comes before the node identity (0,1). The l
 __Figure 4__ Two overlapping GRNs with introgressed nodes and ordered arcs forming a hierarchical compound model. Click to enlarge.
 
 ### Discussion  
-In the developmental program responsible for Drosophila eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [17]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [18], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [19, 20]. More generally, epigenetic landscapes [21] can be used to demonstrate switching as a function of differentiation and historical contingency.  
+In the developmental program responsible for Drosophila eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [22]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [23], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [24, 25]. More generally, epigenetic landscapes [26] can be used to demonstrate switching as a function of differentiation and historical contingency.  
 
 ## References:
 [1] Alberch, P., Gould, S.J., Oster, G.F., and Wake, D. (1979). Size and shape in ontogeny and phylogeny. _Paleobiology_, 5(3), 296.  
@@ -107,14 +107,24 @@ In the developmental program responsible for Drosophila eye morphogenesis, switc
 
 [15] Soucy, S.M., Huang, J., and Gogarten, J.P. (2015). Horizontal gene transfer: building the web of life. _Nature Reviews Genetics_, 16, 472-482.  
 
-[16] Artyomov, M.N., Meissner, A., and Chakraborty, A.K. (2010). A Model for Genetic and Epigenetic Regulatory Networks Identifies Rare Pathways for Transcription Factor Induced Pluripotency. _PLoS Computational Biology_, 6(5), e1000785.  
+[16] Krotov, D., Dubuis, J.O., Gregor, T., and Bialek, W. (2014). Morphogenesis at criticality. _PNAS_, 111(10), 3683–3688.  
 
-[17] Graham, T.G.W., Ali Tabei, S.M., Dinner, A.R., and Rebay, I. (2010). Modeling bistable cell-fate choices in the Drosophila eye: qualitative and quantitative perspectives. _Development_, 137, 2265-2278.  
+[17]
 
-[18]Chang, D-E., Leung, S., Atkinson, M.R., Reifler, A., Forger, D., and Ninfa, A.J. (2010). Building biological memory by linking positive feedback loops. _PNAS_, 107(1), 175–180.  
+[18]
 
-[19] Huang, S., Eichler, G., Bar-Yam, Y. and Ingber, D. E. (2005). Cell fates as high-dimensional attractor states of a complex gene regulatory network. _Physical Review Letters_, 94, 128701.  
+[19]
 
-[20] Siegal-Gaskins, D., Grotewold, E. and Smith, G. D. (2009). The capacity for multistability in small gene regulatory networks. _BMC Systems Biology_, 3, 96.  
+[20]
 
-[21] Ferrell, J.E. (2012). Bistability, Bifurcations, and Waddington’s Epigenetic Landscape. _Current Biology_, 22, R458–R466.  
+[21] Artyomov, M.N., Meissner, A., and Chakraborty, A.K. (2010). A Model for Genetic and Epigenetic Regulatory Networks Identifies Rare Pathways for Transcription Factor Induced Pluripotency. _PLoS Computational Biology_, 6(5), e1000785.  
+
+[22] Graham, T.G.W., Ali Tabei, S.M., Dinner, A.R., and Rebay, I. (2010). Modeling bistable cell-fate choices in the Drosophila eye: qualitative and quantitative perspectives. _Development_, 137, 2265-2278.  
+
+[23]Chang, D-E., Leung, S., Atkinson, M.R., Reifler, A., Forger, D., and Ninfa, A.J. (2010). Building biological memory by linking positive feedback loops. _PNAS_, 107(1), 175–180.  
+
+[24] Huang, S., Eichler, G., Bar-Yam, Y. and Ingber, D. E. (2005). Cell fates as high-dimensional attractor states of a complex gene regulatory network. _Physical Review Letters_, 94, 128701.  
+
+[25] Siegal-Gaskins, D., Grotewold, E. and Smith, G. D. (2009). The capacity for multistability in small gene regulatory networks. _BMC Systems Biology_, 3, 96.  
+
+[26] Ferrell, J.E. (2012). Bistability, Bifurcations, and Waddington’s Epigenetic Landscape. _Current Biology_, 22, R458–R466.  
