@@ -29,7 +29,7 @@ This paper also introduces a number of new concepts related to heterochrony, inc
 We can go beyond the empirical work of Williamson and further define the two alternate models for characterizing heterochrony in life-history: multiphasic and compound. Multiphasic heterochrony involves plastic responses to growth stimuli over developmental time. Compound heterochrony involves developmental trajectories inherited from multiple species. These types of heterochrony are demonstrated in Figures 1 and 2, respectively. Both of these types can also be characterized using a dynamical formulation of previous descriptions of heterochrony.  
 
 <p align="center">
-  <img width="1008" height="500" src="https://user-images.githubusercontent.com/38323286/53188873-db932e80-35cb-11e9-84f8-8bb181b4a1b6.png">
+  <img width="504" height="250" src="https://user-images.githubusercontent.com/38323286/53188873-db932e80-35cb-11e9-84f8-8bb181b4a1b6.png">
 </p>
 
 __Figure 1__ A step-by-step description of multiphasic heterochrony, in which the larval form (caterpillar) dedifferentiates into an intermediate pupae. The developmental trajectories of two different programs expressed as two different parts of life history. A) the caterpillar developmental program is active early in life-history, B) an intermediate stage occurs where all existing structure is obliterated, C) the butterfly developmental program is active later in life history. Click to enlarge.
