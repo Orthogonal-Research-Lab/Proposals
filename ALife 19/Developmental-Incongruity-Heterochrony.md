@@ -55,8 +55,6 @@ In an overlapping example, the TSM maps the three types of behavior embedded in 
 
 __Table 1__ All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
 
-<p align="center">
-  
 Source        |Destination   | State        
 :---:         |:---:         |:---:
 N/A           |0             |1             
@@ -69,8 +67,6 @@ N/A           |0             |1
 0             |1             |2             
 00            |01            |2             
 10            |11            |2             
-
-</p>
 
 TSMs can also be organized to show reciprocal connections between nodes. In such cases, the rules of the original tree hold, with the only difference being a potential regulatory mechanism between the mother and daughter gene(s).  
 
