@@ -1,4 +1,4 @@
-# Explaining Developmental Incongruity Through Dynamical Heterochrony
+# Understanding Developmental Incongruity Through Dynamical Heterochrony
 
 ## Abstract  
 The theory of heterochrony provides us with a generalized quantitative perspective on the dynamics of developmental trajectories. While useful, these linear developmental trajectories merely characterize changes in the speed and extent of growth in developmental time. One open problem in the literature involves how to characterize developmental trajectories for rare and incongruous modes of development. By combining nonlinear mathematical representations of development with models of gene expression networks (GRNs), the dynamics of growth given the plasticity and complexity of developmental timing are revealed. The approach presented here also characterizes heterochrony as a dynamical system as well as introduces putative developmental features called triangular state machines (TSMs). With a focus on developmental timing, formal techniques are developed to characterize delays and bifurcations in the developmental trajectory. These techniques take into consideration the existance of multiple developmental genotypes operating in parallel, which ultimately characterize the exquisite phenotypic diversity observed in animal development.  
@@ -55,6 +55,7 @@ In an overlapping example, the TSM maps the three types of behavior embedded in 
 
 __Table 1__ All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
 
+<p align="center">
 Source        |Destination   | State        
 :---:         |:---:         |:---:
 N/A           |0             |1             
@@ -67,6 +68,7 @@ N/A           |0             |1
 0             |1             |2             
 00            |01            |2             
 10            |11            |2             
+</p>
 
 TSMs can also be organized to show reciprocal connections between nodes. In such cases, the rules of the original tree hold, with the only difference being a potential regulatory mechanism between the mother and daughter gene(s).  
 
