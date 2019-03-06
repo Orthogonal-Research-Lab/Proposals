@@ -68,13 +68,13 @@ N/A           |0             |1
 00            |01            |2             
 10            |11            |2             
 
-TSMs can also be organized to show reciprocal connections between nodes. In such cases, the rules of the original tree hold, with the only difference being a potential regulatory mechanism between the mother and daughter gene(s).  
+TSMs can also be organized to show reciprocal connections between nodes. In such cases, the rules of the original tree hold, with the only difference being a potential regulatory mechanism between the mother and daughter gene(s). Figures 4 and 5 demonstrate these relationships, with Figure 4 deonstrating reciprocal connections and a TSM and Figure 5 providing an example of an introgressed tree.
 
 <p align="center">
   <img width="504" height="250" src="https://user-images.githubusercontent.com/38323286/53188983-1b5a1600-35cc-11e9-9dc7-8245b402391b.PNG">
 </p>
 
-__Figure 3__ An order-3 GRN with nodes acting in both cis and trans. INSET: an example of a TSM as network motif. Click to enlarge.  
+__Figure 4__ An order-3 GRN with nodes acting in both cis and trans. INSET: an example of a TSM as network motif. Click to enlarge.  
 
 Each tree has an identity (0,1) that comes before the node identity (0,1). The leftmost node at order 3 in tree 0 is (000). An order 3 tree is classified as if it has four layers, but this order is discontinuous within a single tree depending on the amount of overlap between each tree. For an overlapping set of order 2 trees, nodes 00 and 01 belong to tree A and nodes 10 and 11 belong to tree B, but their order from left to right is 00, 10, 01, 11. This order is referred to as an introgressed order, and results in reversals, asymmetries, and spatially-restricted increases in complexity.
 
@@ -82,7 +82,7 @@ Each tree has an identity (0,1) that comes before the node identity (0,1). The l
   <img width="504" height="250" src="https://user-images.githubusercontent.com/38323286/53189065-45abd380-35cc-11e9-81fb-34be4d99cc1a.PNG">
 </p>
 
-__Figure 4__ Two overlapping GRNs with introgressed nodes and ordered arcs forming a hierarchical compound model. Click to enlarge.
+__Figure 5__ Two overlapping GRNs with introgressed nodes and ordered arcs forming a hierarchical compound model. Click to enlarge.
 
 Due to the origin of TSMs in overlapping genetic regulatory networks, we expect to see complex phenotypes resulting from these interactions. One such phenotypic pattern we expect to see are interference patterns similar to Moire patterns form applied mathematics. This interference mechanisms might reveal itself in the form of overlapping coloration patterns along the body, or the juxtaposition of differing connectivity patterns in a nervous system. The $\tau$ parameter can also play a role in determining what these interference patterns look like, whether they look more like a overlapping sets of concentric circles (negative values for $\tau$) or the orderly meeting of two orientations of a city street grid ($\tau$ of 0).
 
