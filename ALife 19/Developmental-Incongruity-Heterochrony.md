@@ -58,7 +58,7 @@ A variant of the Cayley tree model described by Artyomov, Meissner, and Chakrabo
 We can bolster the anecdotal observations of Williamson and further define the two alternate models for characterizing heterochrony in life-history: multiphasic and compound. Multiphasic heterochrony involves plastic responses to growth stimuli over developmental time. Compound heterochrony involves developmental trajectories inherited from multiple species. These types of heterochrony are demonstrated in Figures 1 and 2, respectively. Both of these types can also be characterized using a dynamical formulation of previous descriptions of heterochrony.  
 
 <p align="center">
-  <img width="450" height="750" src="https://user-images.githubusercontent.com/38323286/53978979-246ddb80-40d2-11e9-870b-b813570ff247.png">
+  <img width="450" height="750" src="https://user-images.githubusercontent.com/38323286/53979023-3fd8e680-40d2-11e9-8028-3358700b453b.png">
 </p>
 
 __Figure 1__ A step-by-step description of multiphasic heterochrony, in which the larval form (caterpillar) dedifferentiates into an intermediate pupae. The developmental trajectories of two different programs expressed as two different parts of life history. A) the caterpillar developmental program is active early in life-history, B) an intermediate stage occurs where all existing structure is obliterated, C) the butterfly developmental program is active later in life history. Click to enlarge.  
@@ -66,7 +66,7 @@ __Figure 1__ A step-by-step description of multiphasic heterochrony, in which th
 Figure 3 demonstrates a compound heterochronic process with a positive value for $\tau$. This example confirms that compound trajectories also rely on different values for _k_, in addition to the importance of $\delta$, or the difference in individual $\alpha$ and $\beta$ points along each part of the greater developmental trajectory. In this case, $\delta\beta$ is much greater than $\delta\alpha$, which suggests exponential growth in the later phases of development. As an $\alpha, \beta$ pair represent a single Cayley tree model of the genotype, $\tau$ is also related to the degree of overlap in adjoining Cayley trees and the size of a TSM.  
 
 <p align="center">
-  <img width="450" height="750" src="https://user-images.githubusercontent.com/38323286/53979023-3fd8e680-40d2-11e9-8028-3358700b453b.png">
+  <img width="450" height="750" src="https://user-images.githubusercontent.com/38323286/53978979-246ddb80-40d2-11e9-870b-b813570ff247.png">
 </p>
 
 __Figure 2__ A step-by-step description of compound heterochrony, in which developmental trajectories from two different species overlap, resulting in a switch from one program to the other during the course of life history. A) the program from Species A is active early in life-history, B) a switch between developmental programs is activated, C) the program from species B is active later in life-history.  Click to enlarge.
