@@ -34,7 +34,13 @@ where *y* grows according to
 
 $$y(a) = y_0e^ka \tag{2}$$ 
 
-between onset age $\alpha$ and offset age $\beta$. Reformulated as a delay differential equation (DDE) with a single delay, the equation can be structured as
+between onset age $\alpha$ and offset age $\beta$. 
+
+To bring together the simple model of heterochrony with a compound model, we can use Delay Differential Equations (DDEs). DDEs are characterized by time-delay systems in [21]. In their general form, a time-delay system is  
+
+$$ \frac{d}{dt} x(t) = f(t, x(t), x_t) \tag {4}$$
+
+where $x_t = [x(\tau): \tau$ &#x2264; $t]$ represents the trajectory of a solution in the past. Reformulated as a delay differential equation (DDE) with a single delay, the equation can be structured as
 
 $$ \frac{d}{dt} x(t) = f[x(t), x(t-\tau)]   \tag{3}$$
 
@@ -44,7 +50,7 @@ Delay in the growth trajectory is characterized over the interval ($\alpha$, $\b
 
 Additional mathematical and graphical details of these newly-identified forms of heterochrony are defined in Supplementary Materials (https://orthogonal-research-lab.github.io/Compound-Heterochrony.html), which provides details and mathematical formalisms, conceptual results, connections to the developmental constraints such as the critical period, and theoretical scenarios for nonlinear switches during developmental growth.  
 
-A variant of the Cayley tree model described by Artyomov, Meissner, and Chakraborty [21] is used to approximate a suitable GRN. In this case, we represent the hierarchical GRN with a binary tree structure. Each node represents a hypothetical gene in its order of expression. Each level consist of hypothetical genes with equivalent order of expression which will be further presented in the results. As a result, daughter genes at a single level of the binary tree are considered to be a single functional unit (_cis_) of DNA. By contrast, when a gene at one level turns on or off a gene at the next level, it is said to act in _trans_. This is because a binary division creates a new operon consisting of two genes: the mother gene activates the gene in _trans_ and the daughter genes activate each other in _cis_. Lateral activations (within the same level of the tree) occurring between daughter pairs also activate each other in trans. These overlapping structures, which result in a Triangular State Machine (TSM), not only allow us to simulate switching behaviors and nonlinear behaviors [22], but also result in emergent computational mechanisms. More details about the hypothetical function of overlapping trees can be found in Supplementary Materials (https://github.com/Orthogonal-Research-Lab/Developmental-Incongruities-and-Heterochrony).
+A variant of the Cayley tree model described by Artyomov, Meissner, and Chakraborty [22] is used to approximate a suitable GRN. In this case, we represent the hierarchical GRN with a binary tree structure. Each node represents a hypothetical gene in its order of expression. Each level consist of hypothetical genes with equivalent order of expression which will be further presented in the results. As a result, daughter genes at a single level of the binary tree are considered to be a single functional unit (_cis_) of DNA. By contrast, when a gene at one level turns on or off a gene at the next level, it is said to act in _trans_. This is because a binary division creates a new operon consisting of two genes: the mother gene activates the gene in _trans_ and the daughter genes activate each other in _cis_. Lateral activations (within the same level of the tree) occurring between daughter pairs also activate each other in trans. These overlapping structures, which result in a Triangular State Machine (TSM), not only allow us to simulate switching behaviors and nonlinear behaviors [23], but also result in emergent computational mechanisms. More details about the hypothetical function of overlapping trees can be found in Supplementary Materials (https://github.com/Orthogonal-Research-Lab/Developmental-Incongruities-and-Heterochrony).
 
 ## Results
 
@@ -112,7 +118,7 @@ __Figure 5__ Two overlapping GRNs with introgressed nodes and ordered arcs formi
 Due to the origin of TSMs in overlapping genetic regulatory networks, we expect to see complex phenotypes resulting from these interactions. One such phenotypic pattern we expect to see are interference patterns similar to Moire patterns form applied mathematics. This interference mechanisms might reveal itself in the form of overlapping coloration patterns along the body, or the juxtaposition of differing connectivity patterns in a nervous system. The $\tau$ parameter can also play a role in determining what these interference patterns look like, whether they look more like a overlapping sets of concentric circles (negative values for $\tau$) or the orderly meeting of two orientations of a city street grid ($\tau$ of 0).
 
 ### Discussion  
-Here it has been shown that patterns of developmental growth and and the progression of developmental dynamics are much more complex than assumed by contemporary theory. Using a combination of genotypic network representations and heterochronic scaling in the phenotype, we can begin to move towards viewing development as a highly complex and nonlinear process. Yet this approach also provides concrete mechanisms for guided generativity. In the developmental program responsible for _Drosophila_ eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [23]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [24], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [25, 26]. More generally, epigenetic landscapes [27] can be used to demonstrate switching as a function of differentiation and historical contingency. Future work will invilve mapping simulations of development derived from our approach to developmental structures such as lineage trees and epigenetic landscapes.  
+Here it has been shown that patterns of developmental growth and and the progression of developmental dynamics are much more complex than assumed by contemporary theory. Using a combination of genotypic network representations and heterochronic scaling in the phenotype, we can begin to move towards viewing development as a highly complex and nonlinear process. Yet this approach also provides concrete mechanisms for guided generativity. In the developmental program responsible for _Drosophila_ eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [24]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [25], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [26, 27]. More generally, epigenetic landscapes [28] can be used to demonstrate switching as a function of differentiation and historical contingency. Future work will invilve mapping simulations of development derived from our approach to developmental structures such as lineage trees and epigenetic landscapes.  
 
 ## References:
 [1] Alberch, P., Gould, S.J., Oster, G.F., and Wake, D. (1979). Size and shape in ontogeny and phylogeny. _Paleobiology_, 5(3), 296.  
@@ -151,20 +157,23 @@ Here it has been shown that patterns of developmental growth and and the progres
 
 [18] Dubuis, J.O., Tkacik, G., Wieschaus, E.F., Gregor, T., Bialek, W. (2013). Positional information, in bits. _PNAS_, 110(41), 16301-16308.
 
-[19] Verd, B., Crombach, A., and Jaeger, J. (2017). Dynamic Maternal Gradients Control Timing and Shift-Rates for Drosophila Gap Gene Expression. PLoS Computational Biology, 13(2), e1005285.  
+[19] Verd, B., Crombach, A., and Jaeger, J. (2017). Dynamic Maternal Gradients Control Timing and Shift-Rates for Drosophila Gap Gene Expression. _PLoS Computational Biology_, 13(2), e1005285.  
 
-[20] Verd, B., Clark, E., Wotton, K.R., Janssens, H., Jimenez-Guri, E., Crombach, A., and Jaeger, J. (2018). A damped oscillator imposes temporal order on posterior gap gene expression in _Drosophila_. PLoS Biology, 16(2), e2003174.  
+[20] Verd, B., Clark, E., Wotton, K.R., Janssens, H., Jimenez-Guri, E., Crombach, A., and Jaeger, J. (2018). A damped oscillator imposes temporal order on posterior gap gene expression in _Drosophila_. _PLoS Biology_, 16(2), e2003174.  
 
-[21] Artyomov, M.N., Meissner, A., and Chakraborty, A.K. (2010). A Model for Genetic and Epigenetic Regulatory Networks Identifies Rare Pathways for Transcription Factor Induced Pluripotency. _PLoS Computational Biology_, 6(5), e1000785.
+[21] 
+Richard, J-P. (2003). Time-delay systems: an overview of some recent advances and open problems. _Automatica_, 39, 1667-1694.
 
-[22] Brookings, T., Carlson, J.M., and Doyle, J. (2005). Three mechanisms for power laws on the Cayley tree. _Physical Review E_, 72(5), 056120.
+[22] Artyomov, M.N., Meissner, A., and Chakraborty, A.K. (2010). A Model for Genetic and Epigenetic Regulatory Networks Identifies Rare Pathways for Transcription Factor Induced Pluripotency. _PLoS Computational Biology_, 6(5), e1000785.
 
-[23] Graham, T.G.W., Ali Tabei, S.M., Dinner, A.R., and Rebay, I. (2010). Modeling bistable cell-fate choices in the Drosophila eye: qualitative and quantitative perspectives. _Development_, 137, 2265-2278.  
+[23] Brookings, T., Carlson, J.M., and Doyle, J. (2005). Three mechanisms for power laws on the Cayley tree. _Physical Review E_, 72(5), 056120.
 
-[24]Chang, D-E., Leung, S., Atkinson, M.R., Reifler, A., Forger, D., and Ninfa, A.J. (2010). Building biological memory by linking positive feedback loops. _PNAS_, 107(1), 175–180.  
+[24] Graham, T.G.W., Ali Tabei, S.M., Dinner, A.R., and Rebay, I. (2010). Modeling bistable cell-fate choices in the Drosophila eye: qualitative and quantitative perspectives. _Development_, 137, 2265-2278.  
 
-[25] Huang, S., Eichler, G., Bar-Yam, Y. and Ingber, D. E. (2005). Cell fates as high-dimensional attractor states of a complex gene regulatory network. _Physical Review Letters_, 94, 128701.  
+[25]Chang, D-E., Leung, S., Atkinson, M.R., Reifler, A., Forger, D., and Ninfa, A.J. (2010). Building biological memory by linking positive feedback loops. _PNAS_, 107(1), 175–180.  
 
-[26] Siegal-Gaskins, D., Grotewold, E. and Smith, G. D. (2009). The capacity for multistability in small gene regulatory networks. _BMC Systems Biology_, 3, 96.  
+[26] Huang, S., Eichler, G., Bar-Yam, Y. and Ingber, D. E. (2005). Cell fates as high-dimensional attractor states of a complex gene regulatory network. _Physical Review Letters_, 94, 128701.  
 
-[27] Ferrell, J.E. (2012). Bistability, Bifurcations, and Waddington’s Epigenetic Landscape. _Current Biology_, 22, R458–R466.  
+[27] Siegal-Gaskins, D., Grotewold, E. and Smith, G. D. (2009). The capacity for multistability in small gene regulatory networks. _BMC Systems Biology_, 3, 96.  
+
+[28] Ferrell, J.E. (2012). Bistability, Bifurcations, and Waddington’s Epigenetic Landscape. _Current Biology_, 22, R458–R466.  
