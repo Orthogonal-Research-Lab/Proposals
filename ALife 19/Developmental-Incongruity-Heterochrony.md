@@ -17,7 +17,32 @@ Heterochrony can be defined as changes in the rate of change in development for 
 ### Assumptions and Methods
 One way to interpret the interactions of developmental sequences is by treating then as a dynamical system. Based on _Drosophila_ embryogenesis, a number of studies [16-20] suggest that development can be characterized as a dynamical system rather than a series of discrete programs executed serially. This view seems to conflict with convential views of heterochrony, so a series of assumptions need to be made in order to bridge the gap between the language of heterochrony and developmental dynamics.
 
-This first new concept is to extend the theory of heterochrony, including defining a mathematical formalism for dynamical multiphasic heterocrony and in particular the compound case. As an extension of the mathematical model of heterochrony proposed in [1], synamical multiphasic heterochrony explains distinct phases of phenotypic complexity across developmental time, as well as the transition from one phase to the other. Compound heterochrony relies on three parameters: $\alpha$, $\beta$, and $\tau$. Consistent with the formalism in [1], $\alpha$ and $\beta$ represent the initiation and termination of growth, respectively. The $\tau$ parameter is consistent with the notation of delay differential equations (DDEs), and represents the length of delay between two growth phases, each being a function defined by an $\alpha$, $\beta$ pair. The nature of these compound dynamics depends on the value $\tau$, operationalized as the length of time between $\beta_t$ and $\alpha_t+1$. When $\tau$ is positive, there are two distinct phases of growth in the organism. When $\tau$ is negative, the transition between phases is smoother. The specific trajectories of compound heterochrony also rely upon the parameter _k_, or the overall growth rate. Additional mathematical and graphical details of these newly-identified forms of heterochrony are defined in Supplementary Materials (https://orthogonal-research-lab.github.io/Compound-Heterochrony.html), which provides details and mathematical formalisms, conceptual results, and theoretical scenarios for nonlinear switches during developmental growth.  
+This first new concept is to extend the theory of heterochrony, including defining a mathematical formalism for dynamical multiphasic heterocrony and in particular the compound case. As an extension of the mathematical model of heterochrony proposed in [1], synamical multiphasic heterochrony explains distinct phases of phenotypic complexity across developmental time, as well as the transition from one phase to the other. Compound heterochrony relies on three parameters: $\alpha$, $\beta$, and $\tau$. Consistent with the formalism in [1], $\alpha$ and $\beta$ represent the initiation and termination of growth, respectively. The $\tau$ parameter is consistent with the notation of delay differential equations (DDEs), and represents the length of delay between two growth phases, each being a function defined by an $\alpha$, $\beta$ pair. The nature of these compound dynamics depends on the value $\tau$, operationalized as the length of time between $\beta_t$ and $\alpha_t+1$. When $\tau$ is positive, there are two distinct phases of growth in the organism. When $\tau$ is negative, the transition between phases is smoother. The specific trajectories of compound heterochrony also rely upon the parameter _k_, or the overall growth rate. 
+
+**Heterochrony.** The growth law of [1] can be stated as
+
+$$ \frac{dy}{da} = 
+\begin{cases}
+0, & \text{a < $\alpha$}\\
+ky,& \text{$\alpha$ < a < $\beta$}\\
+0, & \text{a > $\beta$}\\
+\end{cases}
+\tag{1}
+$$
+
+where *y* grows according to 
+
+$$y(a) = y_0e^ka \tag{2}$$ 
+
+between onset age $\alpha$ and offset age $\beta$. Reformulated as a delay differential equation (DDE) with a single delay, the equation can be structured as
+
+$$ \frac{d}{dt} x(t) = f[x(t), x(t-\tau)]   \tag{3}$$
+
+We can also characterize time delays more specifically with respect to heterochrony and developmental growth trajectories.  In equation (1), $\alpha$ and $\beta$ both exhibit systematic time delays ($\tau$): $\alpha(\tau)$, $\beta(\tau)$. 
+
+Delay in the growth trajectory is characterized over the interval ($\alpha$, $\beta$), and is equivalent to &#x2206;$k$. The total length of the delayed process is $(\beta + \tau) - (\alpha + \tau)$. Using this formulation, the rate of a delay process is $k_0$, the delay rate is $\frac{k_1}{k_0}$, and the length of a delay process is $\beta_x - \alpha_x$   
+
+Additional mathematical and graphical details of these newly-identified forms of heterochrony are defined in Supplementary Materials (https://orthogonal-research-lab.github.io/Compound-Heterochrony.html), which provides details and mathematical formalisms, conceptual results, connections to the developmental constraints such as the critical period, and theoretical scenarios for nonlinear switches during developmental growth.  
 
 A variant of the Cayley tree model described by Artyomov, Meissner, and Chakraborty [21] is used to approximate a suitable GRN. In this case, we represent the hierarchical GRN with a binary tree structure. Each node represents a hypothetical gene in its order of expression. Each level consist of hypothetical genes with equivalent order of expression which will be further presented in the results. As a result, daughter genes at a single level of the binary tree are considered to be a single functional unit (_cis_) of DNA. By contrast, when a gene at one level turns on or off a gene at the next level, it is said to act in _trans_. This is because a binary division creates a new operon consisting of two genes: the mother gene activates the gene in _trans_ and the daughter genes activate each other in _cis_. Lateral activations (within the same level of the tree) occurring between daughter pairs also activate each other in trans. These overlapping structures, which result in a Triangular State Machine (TSM), not only allow us to simulate switching behaviors and nonlinear behaviors [22], but also result in emergent computational mechanisms. More details about the hypothetical function of overlapping trees can be found in Supplementary Materials (https://github.com/Orthogonal-Research-Lab/Developmental-Incongruities-and-Heterochrony).
 
