@@ -61,7 +61,7 @@ We can bolster the anecdotal observations of Williamson and further define the t
   <img width="450" height="750" src="https://user-images.githubusercontent.com/38323286/53979023-3fd8e680-40d2-11e9-8028-3358700b453b.png">
 </p>
 
-__Figure 1__ A step-by-step description of multiphasic heterochrony, in which the larval form (caterpillar) dedifferentiates into an intermediate pupae. The developmental trajectories of two different programs expressed as two different parts of life history. A) the caterpillar developmental program is active early in life-history, B) an intermediate stage occurs where all existing structure is obliterated, C) the butterfly developmental program is active later in life history. Click to enlarge.  
+__Figure 1__. A step-by-step description of multiphasic heterochrony, in which the larval form (caterpillar) dedifferentiates into an intermediate pupae. The developmental trajectories of two different programs expressed as two different parts of life history. A) the caterpillar developmental program is active early in life-history, B) an intermediate stage occurs where all existing structure is obliterated, C) the butterfly developmental program is active later in life history. Click to enlarge.  
 
 Figure 3 demonstrates a compound heterochronic process with a positive value for $\tau$. This example confirms that compound trajectories also rely on different values for _k_, in addition to the importance of $\delta$, or the difference in individual $\alpha$ and $\beta$ points along each part of the greater developmental trajectory. In this case, $\delta\beta$ is much greater than $\delta\alpha$, which suggests exponential growth in the later phases of development. As an $\alpha, \beta$ pair represent a single Cayley tree model of the genotype, $\tau$ is also related to the degree of overlap in adjoining Cayley trees and the size of a TSM.  
 
@@ -69,13 +69,13 @@ Figure 3 demonstrates a compound heterochronic process with a positive value for
   <img width="450" height="750" src="https://user-images.githubusercontent.com/38323286/53978979-246ddb80-40d2-11e9-870b-b813570ff247.png">
 </p>
 
-__Figure 2__ A step-by-step description of compound heterochrony, in which developmental trajectories from two different species overlap, resulting in a switch from one program to the other during the course of life history. A) the program from Species A is active early in life-history, B) a switch between developmental programs is activated, C) the program from species B is active later in life-history.  Click to enlarge.
+__Figure 2__. A step-by-step description of compound heterochrony, in which developmental trajectories from two different species overlap, resulting in a switch from one program to the other during the course of life history. A) the program from Species A is active early in life-history, B) a switch between developmental programs is activated, C) the program from species B is active later in life-history.  Click to enlarge.
 
 <p align="center">
   <img width="442" height="249" src="https://user-images.githubusercontent.com/38323286/53510304-47214400-3a83-11e9-8efc-45189e7ad854.png">
 </p>
 
-__Figure 3__ . An example of a nonlinear switching event during developmental growth between two growth trajectories. Parameter $\alpha$ represents the start of the growth trajectory, and parameter $\beta$ represents the end of this growth process. In this example of compound heterochrony, two developmental programs are separated by a dedifferentiation and decellularization process (gray dashed line between $\beta_1$ and $\alpha_2$). Click to enlarge.  
+__Figure 3__. An example of a nonlinear switching event during developmental growth between two growth trajectories. Parameter $\alpha$ represents the start of the growth trajectory, and parameter $\beta$ represents the end of this growth process. In this example of compound heterochrony, two developmental programs are separated by a dedifferentiation and decellularization process (gray dashed line between $\beta_1$ and $\alpha_2$). Click to enlarge.  
 
 ### Computational Regulatory Model  
 Cayley trees model the expression of phenotypic change by the genotype. Each node in the tree represents a gene or regulatory element, and the tree structure itself is structured according to their relative causal effect on each other. This model demonstrates the contingent nature of single factors and their effect on collective behavior. The Cayley tree structures can be overlapped to simulate cross-talk between developmental regulatory networks. Let us walk through a Suppose a binary tree $T$ rooted at node $t_0$. This node can be defined as a master control gene, which turns on daughter nodes 0 and 1 at $t_1$. Each of these daughter nodes respresent a gene under contingent upon the master gene. Subsequent layers of the tree represent genes that are dependent upon genes $0$ and $1$, in addition to promoters, enhancers, and post-transcriptional/translational modifications that contribute to the phenotype.  
@@ -84,7 +84,7 @@ In this non-overlapping example, one daughter gene ($g_0$) is a gene of lesser e
 
 In an overlapping example, the TSM maps the three types of behavior embedded in network arcs to numeric states: a state of “0” equals “off”, a state of “1” equals “on in trans”, and a state of “2” equals “on in cis”. Table 1 shows all possible ordinal paths and their corresponding states for an order 3 binary tree.  
 
-__Table 1__ All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
+__Table 1__. All pairwise ordinal paths (network arcs) in an order 3 binary tree. Ordinal path leads from source to destination.
 
 Source        |Destination   | State        
 :---:         |:---:         |:---:
@@ -105,7 +105,7 @@ TSMs can also be organized to show reciprocal connections between nodes. In such
   <img width="504" height="250" src="https://user-images.githubusercontent.com/38323286/53188983-1b5a1600-35cc-11e9-9dc7-8245b402391b.PNG">
 </p>
 
-__Figure 4__ An order-3 GRN with nodes acting in both cis and trans. INSET: an example of a TSM as network motif. Click to enlarge.  
+__Figure 4__. An order-3 GRN with nodes acting in both cis and trans. INSET: an example of a TSM as network motif. Click to enlarge.  
 
 Each tree has an identity (0,1) that comes before the node identity (0,1). The leftmost node at order 3 in tree 0 is (000). An order 3 tree is classified as if it has four layers, but this order is discontinuous within a single tree depending on the amount of overlap between each tree. For an overlapping set of order 2 trees, nodes 00 and 01 belong to tree A and nodes 10 and 11 belong to tree B, but their order from left to right is 00, 10, 01, 11. This order is referred to as an introgressed order, and results in reversals, asymmetries, and spatially-restricted increases in complexity.
 
@@ -113,7 +113,7 @@ Each tree has an identity (0,1) that comes before the node identity (0,1). The l
   <img width="504" height="250" src="https://user-images.githubusercontent.com/38323286/53189065-45abd380-35cc-11e9-81fb-34be4d99cc1a.PNG">
 </p>
 
-__Figure 5__ Two overlapping GRNs with introgressed nodes and ordered arcs forming a hierarchical compound model. Click to enlarge.
+__Figure 5__. Two overlapping GRNs with introgressed nodes and ordered arcs forming a hierarchical compound model. Click to enlarge.
 
 Due to the origin of TSMs in overlapping genetic regulatory networks, we expect to see complex phenotypes resulting from these interactions. One such phenotypic pattern we expect to see are interference patterns similar to Moire patterns form applied mathematics. This interference mechanisms might reveal itself in the form of overlapping coloration patterns along the body, or the juxtaposition of differing connectivity patterns in a nervous system. The $\tau$ parameter can also play a role in determining what these interference patterns look like, whether they look more like a overlapping sets of concentric circles (negative values for $\tau$) or the orderly meeting of two orientations of a city street grid ($\tau$ of 0).
 
