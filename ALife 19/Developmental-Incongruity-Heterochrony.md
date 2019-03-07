@@ -118,7 +118,15 @@ __Figure 5__. Two overlapping GRNs with introgressed nodes and ordered arcs form
 Due to the origin of TSMs in overlapping genetic regulatory networks, we expect to see complex phenotypes resulting from these interactions. One such phenotypic pattern we expect to see are interference patterns similar to Moire patterns form applied mathematics. This interference mechanisms might reveal itself in the form of overlapping coloration patterns along the body, or the juxtaposition of differing connectivity patterns in a nervous system. The $\tau$ parameter can also play a role in determining what these interference patterns look like, whether they look more like a overlapping sets of concentric circles (negative values for $\tau$) or the orderly meeting of two orientations of a city street grid ($\tau$ of 0).
 
 ### Discussion  
-Here it has been shown that patterns of developmental growth and and the progression of developmental dynamics are much more complex than assumed by contemporary theory. Using a combination of genotypic network representations and heterochronic scaling in the phenotype, we can begin to move towards viewing development as a highly complex and nonlinear process. Yet this approach also provides concrete mechanisms for guided generativity. In the developmental program responsible for _Drosophila_ eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [24]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [25], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [26, 27]. More generally, epigenetic landscapes [28] can be used to demonstrate switching as a function of differentiation and historical contingency. Future work will invilve mapping simulations of development derived from our approach to developmental structures such as lineage trees and epigenetic landscapes.  
+In this paper, the theory of heterochrony has been advanced and a mechanism for the genomic expression of systematic growth has 
+been proposed. In terms of heterochrony, the basic mathematical structure of heterochrony theory has been extended to include multiple
+phases of growth. The genomic expression models introduced here utilize Cayley trees and their overlapping components to form functional 
+units and produce outputs that result in a growth trend. There are also several themes revealed in this paper. The first is the role of 
+delays and differential time in the expression of phenotypes. Based on anectodal observations made by Williamson [5,6], changes in phase 
+across the developmental process are hypothesized to be due to multiple growth processes (expressed in the genotype) and changes in the 
+rate and linkage of these growth processes. Representing the genotype, the Cayley tree representations also reveal how these dynamics might be regulated. Cayley trees rely on both regulation and gene-gene interactions [24] to produce a dynamical output. In cases where two Cayley trees overlap, it is hypothesized that a TSM exists that provides a mechanism for local feedback. This may result in nonlinear outputs and other examples of complex regulation.
+
+One overarching theme of this paper is that patterns of developmental growth and and the progression of developmental dynamics are much more complex than assumed by contemporary theory. Using a combination of genotypic network representations and heterochronic scaling in the phenotype, we can begin to move towards viewing development as a highly complex and nonlinear process. Yet this approach also provides concrete mechanisms for guided generativity. In the developmental program responsible for _Drosophila_ eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [25]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [26], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [27, 28]. More generally, epigenetic landscapes [29] can be used to demonstrate switching as a function of differentiation and historical contingency. Future work will invilve mapping simulations of development derived from our approach to developmental structures such as lineage trees and epigenetic landscapes.  
 
 ## References:
 [1] Alberch, P., Gould, S.J., Oster, G.F., and Wake, D. (1979). Size and shape in ontogeny and phylogeny. _Paleobiology_, 5(3), 296.  
@@ -161,12 +169,15 @@ Here it has been shown that patterns of developmental growth and and the progres
 
 [20] Verd, B., Clark, E., Wotton, K.R., Janssens, H., Jimenez-Guri, E., Crombach, A., and Jaeger, J. (2018). A damped oscillator imposes temporal order on posterior gap gene expression in _Drosophila_. _PLoS Biology_, 16(2), e2003174.  
 
-[21] 
-Richard, J-P. (2003). Time-delay systems: an overview of some recent advances and open problems. _Automatica_, 39, 1667-1694.
+[21] Richard, J-P. (2003). Time-delay systems: an overview of some recent advances and open problems. _Automatica_, 39, 1667-1694.
 
 [22] Artyomov, M.N., Meissner, A., and Chakraborty, A.K. (2010). A Model for Genetic and Epigenetic Regulatory Networks Identifies Rare Pathways for Transcription Factor Induced Pluripotency. _PLoS Computational Biology_, 6(5), e1000785.
 
 [23] Brookings, T., Carlson, J.M., and Doyle, J. (2005). Three mechanisms for power laws on the Cayley tree. _Physical Review E_, 72(5), 056120.
+
+[24] Mensch, J., Carreira, V., Lavagnino, N., Goenaga, J., Folguera, G., Hasson, E., and Fanara, J.J. (2010). Stage-Specific Effects of 
+Candidate Heterochronic Genes on Variation in Developmental Time along an Altitudinal Cline of Drosophila melanogaster. _PLoS One_, 
+5(6), e11229.
 
 [24] Graham, T.G.W., Ali Tabei, S.M., Dinner, A.R., and Rebay, I. (2010). Modeling bistable cell-fate choices in the Drosophila eye: qualitative and quantitative perspectives. _Development_, 137, 2265-2278.  
 
