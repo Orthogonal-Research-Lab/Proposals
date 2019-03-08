@@ -162,7 +162,7 @@ I would like to thank Dr. Richard Gordon and other members of the DevoWorm group
 
 [10] Figueiro, H.V. et.al (2017). Genome-wide signatures of complex introgression and adaptive evolution in the big cats. _Science Advances_, 3(7), e1700299.  
 
-[11] Baack, E.J. and Rieseberg, L.H. (2007). A genomic view of introgression and hybrid speciation. _Current Opinion in Genetics and Development_, 17(6): 513–518.  
+[11] Baack, E.J. and Rieseberg, L.H. (2007). A genomic view of introgression and hybrid speciation. _Current Opinion in Genetics and Development_, 17(6), 513–518.  
 
 [12] Combes, M-C., Hueber, Y., Dereeper, A., Rialle, S., Herrera, J-C., and Lashermes, P. (2015). Regulatory Divergence between Parental Alleles Determines Gene Expression Patterns in Hybrids. _Genome Biology and Evolution_, 7(4), 1110–1121.  
 
@@ -186,7 +186,7 @@ I would like to thank Dr. Richard Gordon and other members of the DevoWorm group
 
 [22] Artyomov, M.N., Meissner, A., and Chakraborty, A.K. (2010). A Model for Genetic and Epigenetic Regulatory Networks Identifies Rare Pathways for Transcription Factor Induced Pluripotency. _PLoS Computational Biology_, 6(5), e1000785.
 
-[23] Moss, E.G. (2007). Heterochronic Genes and the Nature of Developmental Time. Current Biology, 17(11), R425-R434.
+[23] Moss, E.G. (2007). Heterochronic Genes and the Nature of Developmental Time. _Current Biology_, 17(11), R425-R434.
 
 [24] Gordon, N.K. and Gordon, R. (2016). Embryogenesis Explained. World Scientific, Singapore.
 
