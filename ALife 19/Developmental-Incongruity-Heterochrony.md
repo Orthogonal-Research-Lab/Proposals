@@ -40,11 +40,11 @@ between onset age $\alpha$ and offset age $\beta$.
 
 To bring together the simple model of heterochrony with a compound model, we can use Delay Differential Equations (DDEs). DDEs are characterized by time-delay systems in [21]. In their general form, a time-delay system is  
 
-$$ \frac{d}{dt} x(t) = f(t, x(t), x_t) \tag {4}$$
+$$ \frac{d}{dt} x(t) = f(t, x(t), x_t) \tag {3}$$
 
 where $x_t = [x(\tau): \tau$ &#x2264; $t]$ represents the trajectory of a solution in the past. Reformulated as a delay differential equation (DDE) with a single delay, the equation can be structured as
 
-$$ \frac{d}{dt} x(t) = f[x(t), x(t-\tau)]   \tag{3}$$
+$$ \frac{d}{dt} x(t) = f[x(t), x(t-\tau)]   \tag{4}$$
 
 We can also characterize time delays more specifically with respect to heterochrony and developmental growth trajectories.  In equation (1), $\alpha$ and $\beta$ both exhibit systematic time delays ($\tau$): $\alpha(\tau)$, $\beta(\tau)$. 
 
