@@ -50,16 +50,11 @@ Delay in the growth trajectory is characterized over the interval ($\alpha$, $\b
 
 Additional mathematical and graphical details of these newly-identified forms of heterochrony are defined in a [Supplementary Notebook](https://orthogonal-research-lab.github.io/Compound-Heterochrony.html), which provides details and mathematical formalisms, conceptual results, connections to the developmental constraints such as the critical period, and theoretical scenarios for nonlinear switches during developmental growth.  
 
-A variant of the Cayley tree model described by Artyomov, Meissner, and Chakraborty [22] is used to approximate a suitable GRN. In this case, we represent the hierarchical GRN with a binary tree structure. 
-
-
-
+A variant of the Cayley tree model described by Artyomov, Meissner, and Chakraborty [22] is used to approximate a suitable GRN. In this case, we represent the hierarchical GRN with a binary tree structure. Each level of the tree allows us to transform a single mother node into two daughter nodes. This can either be one gene affected by another, or a gene affected by a regulatory element. In following a path between the root node to a branch tip, we encounter genes that have a direct influence of other genes (no intermediate regulatory elements), and genes that are influenced by regulatory elements (promoters, enhancers). There are also lateral pathways where one the effects of one genetic pathway can influence the effect of another (epistasis). The degree of activity along all of these arcs must be pre-defined. The tips of the trees produce an continuous output that shape the level of growth at a particular point in time.  
 
 **Genetic Regulatory Network.** Suppose a binary tree $T$ rooted at node $t_0$. This node can be defined as a master control gene, which turns on daughter nodes 0 and 1 at $t_1$. Each of these daughter nodes respresent a gene under contingent upon the master gene. Subsequent layers of the tree represent genes that are dependent upon genes $0$ and $1$, in addition to promoters, enhancers, and post-transcriptional/translational modifications that contribute to the phenotype.  
 
 In this non-overlapping example, one daughter gene ($g_0$) is a gene of lesser effect, while the other daughter gene ($g_1$) is a gene of greater effect. The expression of both genes are mediated by promotors. The gene of lesser effect ($g_0$) has two promotors _p_: $p_{00}$ and $p_{01}$, while the gene of greater effect ($g_1$) also has two promoters: $p_{10}$ and $p_{11}$. Each pair of promoters (genes expressed at $t_2$) are expressed according to probabilities $p$ and $1-p$, respectively. The relative probability of switching is context-dependent. Enhancers, present at $t_3$ in this example, mediate the expression of genes $0$ and $1$ as the daughter nodes of a promoter node. In this example, each promoter would have two enhancer nodes, for a total of eight (8) enhancer nodes. Unlike promoters, enhancers act as analogue tuners, while each enhancer produces a modified output of its mother promoter.
-
-More details about the hypothetical function of overlapping trees can be found in a [Supplementary Repository](https://github.com/Orthogonal-Research-Lab/Developmental-Incongruities-and-Heterochrony).
 
 ## Results
 
