@@ -27,7 +27,7 @@ $$ \frac{dy}{da} =
 \begin{cases}
 0, & \text{a < $\alpha$}\\
 ky,& \text{$\alpha$ < a < $\beta$}\\
-0, & \text{a > $\beta$}\\
+0, & \text{a > $\beta$}
 \end{cases}
 \tag{1}
 $$
@@ -136,7 +136,7 @@ delays and differential time in the expression of phenotypes. Based on anectodal
 across the developmental process are hypothesized to be due to multiple growth processes (expressed in the genotype) and changes in the 
 rate and linkage of these growth processes. Representing the genotype, the Cayley tree representations also reveal how these dynamics might be regulated. Cayley trees rely on both regulation and gene-gene interactions [26] to produce a dynamical output. In cases where two Cayley trees overlap, it is hypothesized that a TSM exists that provides a mechanism for local feedback. This may result in nonlinear outputs and other examples of complex regulation.
 
-One overarching theme of this paper is that patterns of developmental growth and and the progression of developmental dynamics are much more complex than assumed by contemporary theory. Using a combination of genotypic network representations and heterochronic scaling in the phenotype, we can begin to move towards viewing development as a highly complex and nonlinear process. Yet this approach also provides concrete mechanisms for guided generativity. In the developmental program responsible for _Drosophila_ eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [27]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [28], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [29, 30]. More generally, epigenetic landscapes [31] can be used to demonstrate switching as a function of differentiation and historical contingency. Future work will invilve mapping simulations of development derived from our approach to developmental structures such as lineage trees and epigenetic landscapes.  
+One overarching theme of this paper is that patterns of developmental growth and the progression of developmental dynamics are much more complex than assumed by contemporary theory. Using a combination of genotypic network representations and heterochronic scaling in the phenotype, we can begin to move towards viewing development as a highly complex and nonlinear process. Yet this approach also provides concrete mechanisms for guided generativity. In the developmental program responsible for _Drosophila_ eye morphogenesis, switch-like behavior results from positive feedback between genes in the regulatory network [27]. Nonlinear positive feedback in the form of interacting positive feedbacks loops, sets the stage for dynamic bistability [28], or the conditions that enable switching mechanism responsible for both multiphasic and compound heterochrony. Dynamic bistability can be demonstrated in small and complex GRNs alike [29, 30]. More generally, epigenetic landscapes [31] can be used to demonstrate switching as a function of differentiation and historical contingency. Future work will invilve mapping simulations of development derived from our approach to developmental structures such as lineage trees and epigenetic landscapes.  
 
 ### Acknowledgements
 I would like to thank Dr. Richard Gordon and other members of the DevoWorm group for their feedback and discussion.  
