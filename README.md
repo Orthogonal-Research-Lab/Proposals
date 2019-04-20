@@ -2,11 +2,7 @@
 
 Place for project and grant proposal development  
 
-GSoC 2019/Future Papers and Projects:  
-
-* UI/UX of Scientific Research.  
-
-* On noise, growth, and form.  
+GSoC 2019:  
 
 * [developmental Braitenberg vehicles](https://github.com/Orthogonal-Research-Lab/Proposals/tree/master/GSoC%202018%20Project%20Description).  
 
