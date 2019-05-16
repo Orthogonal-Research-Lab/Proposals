@@ -1,0 +1,1 @@
+See [this RFA](https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/) and [Medium post](https://medium.com/@cziscience/essential-open-source-software-for-science-72faec2c38c1) for more details.
