@@ -1,1 +1,1 @@
-RFP for [Targeted Grants in MPS](https://www.simonsfoundation.org/grant/targeted-grants-in-mps/). For high-risk research in Math, Physics, and Computer Science. Five year time window, rolling deadline.
+RFP for [Targeted Grants in MPS](https://www.simonsfoundation.org/grant/targeted-grants-in-mps/). For high-risk research in Math, Physics, and Computer Science. Five year time window, rolling deadline. Submit letter of intent [here](https://proposalcentral.altum.com/default.asp).
