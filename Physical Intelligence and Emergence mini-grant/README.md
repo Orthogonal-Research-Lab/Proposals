@@ -15,3 +15,9 @@ average award size: $100K, 1-2 years in length. Half-time or less award. Outreac
 Inspire investigations into the many connections between basic physical laws and the nature of intelligence and intelligent agents.
 
 part-time work (15% to 40%), in parallel with the scientist's usual research.  
+
+Potential framework:
+
+Three main themes -- "sample", "displace", "track".
+
+Assume physical reality is not a simulation, but rather a flow field. The flow field notion is a sort of perceptual aether, but is also consistent with optical flow from roobtics. Awareness is aligned with the flow field most of the time, but can be misaligned to produce breaks in reality. 
