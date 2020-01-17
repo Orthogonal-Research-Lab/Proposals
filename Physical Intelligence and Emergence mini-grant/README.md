@@ -1,4 +1,4 @@
-Thought-pad for Physical Intelligence and Emergence, FQXi "Consciousness in the Physical World" full grant.
+## Thought-pad for Physical Intelligence and Emergence, FQXi "Consciousness in the Physical World" full grant.
 
 Initial application due on February 12th RFP. Proposal should include the following:
 
@@ -16,13 +16,23 @@ Inspire investigations into the many connections between basic physical laws and
 
 part-time work (15% to 40%), in parallel with the scientist's usual research.  
 
-Potential framework:  
+### Potential framework:  
 
 Three main themes -- "sample", "displace", "track".  
 
+Two additional themes -- "integrate", "adjacency"
+
 Assume physical reality is not a simulation, but rather a flow field. The flow field notion is a sort of perceptual aether, but is also consistent with optical flow from roobtics. Awareness is aligned with the flow field most of the time, but can be misaligned to produce breaks in reality.  
 
-3 main forms of Physical Intelligence:  
+* aether is a spatial representation, mimics what brains do.  
+
+* physical consciousness requires a form of physical attention, attentional mechanisms that guide intentional behavior.
+
+* collective attention can be driven by emergent behavior or energetics (feedback from a global profile of fluctuations).
+
+* "displace" is related to disruption in animal brains (breaks in attention, consciousness).
+
+### 3 main forms of Physical Intelligence:  
 
 1) sensory displacement (representation-environment match).  
 
@@ -33,4 +43,5 @@ Assume physical reality is not a simulation, but rather a flow field. The flow f
 Population of cells: adaptive learning system, is this something that requires a brain?  
 
 * can be broken apart in a virtual environment (or synthetic systems such as an artificial cell).  
+
 
