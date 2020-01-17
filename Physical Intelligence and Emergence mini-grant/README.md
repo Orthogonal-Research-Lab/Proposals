@@ -16,8 +16,21 @@ Inspire investigations into the many connections between basic physical laws and
 
 part-time work (15% to 40%), in parallel with the scientist's usual research.  
 
-Potential framework:
+Potential framework:  
 
-Three main themes -- "sample", "displace", "track".
+Three main themes -- "sample", "displace", "track".  
 
-Assume physical reality is not a simulation, but rather a flow field. The flow field notion is a sort of perceptual aether, but is also consistent with optical flow from roobtics. Awareness is aligned with the flow field most of the time, but can be misaligned to produce breaks in reality. 
+Assume physical reality is not a simulation, but rather a flow field. The flow field notion is a sort of perceptual aether, but is also consistent with optical flow from roobtics. Awareness is aligned with the flow field most of the time, but can be misaligned to produce breaks in reality.  
+
+3 main forms of Physical Intelligence:  
+
+1) sensory displacement (representation-environment match).  
+
+2) sensory tracking (spatiotemporal continuity).  
+
+3) planning and sampling (frequency, new information, refresh rate).  
+
+Population of cells: adaptive learning system, is this something that requires a brain?  
+
+* can be broken apart in a virtual environment (or synthetic systems such as an artificial cell).  
+
