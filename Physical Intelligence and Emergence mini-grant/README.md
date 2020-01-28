@@ -32,7 +32,7 @@ Moire patterns can do all three of these if coupled to an intelligent agent.
 
 * expression of Moire pattern and adaptation of agent neural net is a coevolutionary relationship.
 
-/// Assume physical reality is not a simulation, but rather a flow field. The flow field notion is a sort of perceptual aether, but is /// also consistent with optical flow from roobtics. Awareness is aligned with the flow field most of the time, but can be misaligned to /// produce breaks in reality. Aether is a spatial representation, mimics what brains do.  
+>>>> Assume physical reality is not a simulation, but rather a flow field. The flow field notion is a sort of perceptual aether, but is >>>> also consistent with optical flow from roobtics. Awareness is aligned with the flow field most of the time, but can be misaligned >>>> to produce breaks in reality. Aether is a spatial representation, mimics what brains do.  
 
 ### Agents and their operation
 
@@ -52,8 +52,8 @@ Physical consciousness also relies upon three properties of physical intelligenc
 
 There are two addition types of mathematical operation that can be achieved by the agents themselves: "integrate", and "adjacency". These are used by the attention engine as strategies for synthesizing and normalizing information. When these processes break down, we expect to see some form of sensory displacement.
 
-//// Population of cells: adaptive learning system, is this something that requires a brain?  This can be implemented in a virtual 
-//// environment (or synthetic systems such as an artificial cell).  
+>>>> Population of cells: adaptive learning system, is this something that requires a brain?  This can be implemented in a virtual 
+>>>> environment (or synthetic systems such as an artificial cell).  
 
 
 
