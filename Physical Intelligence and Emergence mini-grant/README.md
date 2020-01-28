@@ -45,3 +45,14 @@ Population of cells: adaptive learning system, is this something that requires a
 * can be broken apart in a virtual environment (or synthetic systems such as an artificial cell).  
 
 
+### One possible implementation: Moire patters as a morphgenetic form of intelligence
+
+See notes here [link](https://github.com/devoworm/AoDT/blob/master/Moire%20Patterns%20for%20Developmental%20Data/README.md)
+
+Moire patterns can do all three of these if coupled to an intelligent agent.
+
+* Moire pattern creates interference, virtual world for agent, which co-evolves with shifting of patterns.
+
+* expression of Moire pattern and adaptation of agent neural net is a coevolutionary relationship.
+
+
