@@ -15,3 +15,5 @@ average award size: $100K, 1-2 years in length. Half-time or less award. Outreac
 Inspire investigations into the many connections between basic physical laws and the nature of intelligence and intelligent agents.
 
 part-time work (15% to 40%), in parallel with the scientist's usual research.  
+
+Abstract is located [here](https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Physical%20Intelligence%20and%20Emergence%20mini-grant/Abstract.md), and the associated repository is located [here](https://github.com/Orthogonal-Research-Lab/Physical-Intelligence-IA/blob/master/Experientially%20Coherent%20Agents/README.md)
