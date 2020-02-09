@@ -18,46 +18,23 @@ part-time work (15% to 40%), in parallel with the scientist's usual research.
 
 
 
-### Potential framework:  
+## Informationally Coherent Agents: using physical intelligence to understand universal coherence
+ 
+Consciousness in physical systems can be elucidated by appealing to both psychophysics and the function of simple physical systems. Consciousness is also a form of natural computing. The goal is to create a representational system of intelligence that is computationally equivalent conditions found in the physical world. To create an experimental system that explores information processing in physical systems, I propose to create a system of agents that process complex physical phenomena and represents this as behavioral fitness and communication with other agents. This will hopefully result in a model of  universal coherence, a subgoal of and necessary step towards understanding physical consciousness.
 
-To lay the groundwork for understanding consciousness in non-biological systems, we propose to study something called physical intelligence in a computational system. Create an illusory system with agents. Each agent samples illusory system (Moire pattern formation) using a series of subjective viewpoints through which they can intergrate information. 
+### Potential framework
+To lay the groundwork for understanding consciousness in non-biological systems, we propose to study something called physical intelligence in a computational system. This can be done by creating an illusory system for a population of agents, each with a perceptual interface and an internal model. Each agent samples a complex illusion-generating system using a series of subjective viewpoints through which they can integrate information using their internal model. 
 
+### Moire patters as a morphogenetic form of intelligence
+Moire patterns provide a rich environment in terms of both pattern-based information and unique perspectives. The expression of Moire patterns by the movements of simple physical gratings provide a physical stimulus to our agent population, the internal states of which are driven by discrete spatiotemporal sampling of this environment. Moire patterns also create interference patterns that force multiple geometric perspectives to be reconciled. Within an agent’s internal model, integration of the stimulus allows for a representation to form via morphogenetic processes. In this sense, our stimulus bridges the gap between classical and quantum physical phenomena. The processing of these patterns do not require a brain per se, and part of these experiment will involve investigating representations that provide the best performance in terms of sustained attention and information processing.
 
-### One possible implementation: Moire patters as a morphgenetic form of intelligence
+### Other Types of Systems
+Moire patterns are only one type of stimulus system that can be used in such experiments. Another possible system involves the use of isometric geometries, in particular non-transitive exemplified by Penrose Stairs or M.C. Escher’s “Relativity”. This example provides another way to exploit the relativistic representational capacity of our agents, and can also be synthesized in a morphogenetic fashion.
 
-See notes here [link](https://github.com/devoworm/AoDT/blob/master/Moire%20Patterns%20for%20Developmental%20Data/README.md)
-
-Moire patterns can do all three of these if coupled to an intelligent agent.
-
-* Moire pattern creates interference, virtual world for agent, which co-evolves with shifting of patterns.
-
-* expression of Moire pattern and adaptation of agent neural net is a coevolutionary relationship.
-
->>>> Assume physical reality is not a simulation, but rather a flow field. The flow field notion is a sort of perceptual aether, but is >>>> also consistent with optical flow from roobtics. Awareness is aligned with the flow field most of the time, but can be misaligned >>>> to produce breaks in reality. Aether is a spatial representation, mimics what brains do.  
-
-
-### Agents and their operation  
-
+### Agents and their operation
 Physical consciousness requires a form of physical attention, attentional mechanisms that guide intentional behavior. Thus, our agents consist of attentional machines that can focus on particular aspects of an experience and integrate those components in a way that creates an experience. There are two types of mathematical operation that can be achieved by the agents themselves: "integrate", and "adjacency". These are used by the attention engine as strategies for synthesizing and normalizing information. When these processes break down, we expect to see some form of sensory displacement. In terms of output behaviors, we expect two modes of operation from these attentional machines.
 
-1) emergent attention, which can be driven by emergent behavior or energetics (feedback from a global profile of fluctuations).
+One mode involves something called emergent attention, which can be driven by emergent behavior or energetics (feedback from a global profile of fluctuations). Another mode involves coordinated displacement, which is similar to attention disruption in animal brains, and occurs due to breaks in attention or visual illusions.
 
-2) coordinated displacement, which is related to disruption in animal brains, and occur due to breaks in attention or visual illusions.
-
-
-### Informative Outputs  
-
-Physical consciousness also relies upon three properties of physical intelligence. This can be though of as three types of mathematical operation: "displace", "track", and "sample".  
-
-1) sensory displacement (representation-environment match).  
-
-2) sensory tracking (spatiotemporal continuity).  
-
-3) planning and sampling (frequency, new information, refresh rate).  
-
-
->>>> Population of cells: adaptive learning system, is this something that requires a brain?  This can be implemented in a virtual 
->>>> environment (or synthetic systems such as an artificial cell).  
-
-
-
+### Informative Outputs
+Any potential role for consciousness will relies upon three properties of physical intelligence. This can be though of as three types of mathematical operation: "displace", "track", and "sample". Sensory displacement can be defined as a representation-environment match. Sensory tracking involves spatiotemporal continuity, and planning and sampling can be defined in terms of frequencies at which new information is acquired from the environment.
