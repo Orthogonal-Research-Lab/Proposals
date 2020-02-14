@@ -10,6 +10,10 @@ Guldelines:
 
 * 6 Tweets in 15 minutes (one Tweet every 2 minutes, 30 seconds). Space out according to density of Tweet (attached slide images, etc).
 
+### Related Tweets
+<p align="center">
+  <img width="400" height="400" src=""><BR>
+</p>
 
 ## Developmental Braitenberg Vehicles (dBVs): developmental neuroethology in a computer 
 
