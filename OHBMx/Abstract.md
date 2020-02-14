@@ -12,7 +12,7 @@ Guldelines:
 
 ### Related Tweets
 <p align="center">
-  <img width="400" height="400" src=""><BR>
+  <img width="296" height="192" src="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/OHBMx/OHBMX-tweet.png"><BR>
 </p>
 
 ## Developmental Braitenberg Vehicles (dBVs): developmental neuroethology in a computer 
