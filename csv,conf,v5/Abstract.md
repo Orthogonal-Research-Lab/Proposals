@@ -1,4 +1,4 @@
-### Title: Epistomological Directories for Research Development and Education
+### Title: Epistemological Directories for Research Development and Education
 
 #### Authors: Bradly Alicea and Jesse Parent
 
