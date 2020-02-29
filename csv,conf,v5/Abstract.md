@@ -1,4 +1,4 @@
-### Title: Epistemological Directories for Research Development and Education
+### Epistemological Directories for Research Development and Education
 
 __Authors: Bradly Alicea and Jesse Parent__  
 Orthogonal Research and Education Laboratory
