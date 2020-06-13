@@ -58,7 +58,7 @@ In a traditional BV [6], simple behaviors are not so much learned as they are th
 <p align="center">
    <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Developmental%20Neural%20Networks/Figure%203.png">
 </p>
-Figure 3. Membership functions for _R,G,B,Polygon_. A and B represent the _R,G,B_ color space as CGS membership functions. C represents a gradient of shapes transformations (+ is increasing membership).
+Figure 3. Membership functions for _R,G,B,Polygon_. A and B represent the _R,G,B_ color space as CGS membership functions. C represents a related gradient of shape transformations (+ is increasing membership).
 
 #### Dynamic Components
 There are a number of ways to implement a dynamic set of processes that unfold over developmental time. These range from increasing numbers of neuronal cells to the cumulative effects of stimulus encounters and even the gradual interfacing between layers. The dBV-CGS layered can be referred to as a tightly-coupled hybrid architecture [11]. In such an architecture, it is critical to have an embodied lower layer. In general, embodiment is a critical component of animal development, as it enables learning and behavioral coordination via the sensorimotor loop [14].
