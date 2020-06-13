@@ -16,7 +16,7 @@ We propose that embodied developmental agents that can integrate context are the
 
 Despite their developmental aspect, dBVs are largely representation-free in that they do not make any assumptions about the external world. There are in fact innate aspects to this architecture that serve well as a basal component of the meta-brain architecture. In their non-developmental models, BVs tend to exhibit habits that reflect excitatory and inhibitory connections between sensors, intermediate nodes, and effectors [8]. BVs can exhibit rudimentary behaviors identified as "happiness", "love", or "aggression", which are associated with static body plans. The behaviors are rudimentary because they are essentially the outcome of hard-wired configurations. Suppose we make these connections plastic, and thus change their configuration over time. Will this result in significant fluctuations in the observed emotional state? To minimize this, a second layer is required to control behavioral degeneration due to the developmental process, particularly one that enables a contextual representation of emotional states.
 
-### Morphological Differentiation as Growth
+#### Morphological Differentiation as Growth
 Before we discuss the second layer of context, we must first address how to implement the growth of a representation. Growth can be characterized as a form of morphological differentiation in which structure and/or function can become increasingly diverse. In this case, growth reflects increasing the size of a network. Yet as mentioned earlier, the growth of a dBV neuronal network can diversify (or in some cases obscure) the expression of habits and other behaviors. 
 
 The meta-brain architecture presented here involves implementing a technique for neuronal network growth in dBVs (Figure 1). Network growth proceeds through _connectivity-activation encoding_, in which matrix _W(i,j)_ of potential connections between intermediate nodes expands (potential connections removed) and/or is pruned (potential connections removed) over developmental time. Updating _W(i,j)_ is generally a discrete process. We have approached connectivity-activation encoding using two different techniques: Hebbian Learning and Genetic Algorithms [9]. Hebbian Learning has been used to introduce a basic form of multisensory integration to the dBV, while genetic algorithms have been used to enforce developmental recombination of existing nodes.
@@ -30,7 +30,7 @@ Our genetic algorithm generates a variety of topological orderings of matrix _W(
 </p>
 Figure 1. An example of wiring expansion in a hybrid dBV/CGS agent.
 
-### Morphological Differentiation as Layering
+#### Morphological Differentiation as Layering
 The developmental process also includes a form of morphological differentiation called layering (Figure 2). Implementing a second layer as an extension of the first allows us to both benefit from the diversity of multiple models and better utilize the processing potential of structures like the thalamocortical system in mammalian brains. We utilize an representational approach called Contextual Geometric Structures (CGS), which allows us to capture multiple features of the environment as a surface bounded by overlapping dimensions [9]. A soft classification scheme is used to build representations with meaning and significance that resemble cultural referents. We can use phototaxis, or attraction/repulsion behaviors in response to light, as an example. While an unlayered dBV will simply exhibit a reactive behavior to light, a layered dBV coupled to a CGS will be able to evaluate the light source in the context of all physical gradations ranging from absolute light to absolute dark. 
 
 <p align="center">
@@ -50,7 +50,7 @@ Suppose we expand our representation to a two-dimensional kernel, with light-dar
 </p>
 We can potentially use a wide range of model types to introduce layering. Here, we use dBVs to process data from the environment along with CGS as a means to introduce representation of context. Using these two models in tandem creates both advantages and drawbacks. Any implementation of layering must allow for the following architectural features: innate components, dynamic components, and bio-inspired components.
 
-### Innate Components
+#### Innate Components
 In the implementation of contemporary neural networks, innateness is a forgotten but potentially crucial component in aiding the artificial learning process [11]. According to [12], combining symbolic and connectionist architectures can draw upon the strengths of each type of formalism. Connectionist architectures are considered a form of sub-symbolic cognition, which can only approximate symbolic processes, and even then only under certain circumstances [13]. Yet the dBV architecture is not the only innate aspect of our featured model. CGS kernels use basic concepts as innate components, often encoded as limits of a metric space.
 
 In a traditional BV [6], simple behaviors are not so much learned as they are the product of excitation and inhibition of connections that link the sensors and effectors. The sensors take in information about the stimulus and transfer information towards the effector. This connection exists in either an excitatory or inhibitory state. This in turn controls movement of the vehicle's trajectory, which determines the behavioral state. We define vehicle trajectories in two ways: as a dot product (angle between two vectors) and as differential bilateral motion (continuous difference between left and right wheel rotation speeds) [6]. 
@@ -60,12 +60,12 @@ In a traditional BV [6], simple behaviors are not so much learned as they are th
 </p>
 Figure 3. Membership functions for _R,G,B,Polygon_. A and B represent the _R,G,B_ color space as CGS membership functions. C represents a gradient of shapes transformations (+ is increasing membership).
 
-### Dynamic Components
+#### Dynamic Components
 There are a number of ways to implement a dynamic set of processes that unfold over developmental time. These range from increasing numbers of neuronal cells to the cumulative effects of stimulus encounters and even the gradual interfacing between layers. The dBV-CGS layered can be referred to as a tightly-coupled hybrid architecture [11]. In such an architecture, it is critical to have an embodied lower layer. In general, embodiment is a critical component of animal development, as it enables learning and behavioral coordination via the sensorimotor loop [14].
 
 One dynamic component is the relationship between the connectivity-activation encoding of a traditional BV and the more dynamic (and potentially unstable) connectivity-activation encoding of a dBV. We can revisit this not as something that needs to be dynamically regulated, but as something that can be used as a difference to be understood. This differential output is captured in terms of trajectory (as mentioned in the last section), and is fed to the CGS representational layer to enable contextual classification. 
 
-### Bio-inspired Components
+#### Bio-inspired Components
 We can also exploit the biological features of development to govern both the growth of neuronal networks within dBVs and the layering of dBVs and CGS components. For example, morphogenesis of the _C. elegans_ connectome is defined by three properties: most neuronal cells are born within a 135 minute window, conservation of cell spatial position from development to adulthood, and temporal separation of neuronal differentiation and electrical connectivity [15, 16]. We can also build upon heterochronic mechanisms [17, 18] to control the growth of our systems in a manner that also invokes innate mechanisms. Of particular interest is the ability to simulate how different modules of the hybrid system develop at distinct rates.
 <p align="center">
   <H3>Discussion</H3>
