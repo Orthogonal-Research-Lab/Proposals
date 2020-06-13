@@ -77,10 +77,12 @@ One example of how a representation-rich architecture might improve the performa
 Multisensory integration is known for its nonlinear effects, particularly the sub- and super-additive effects of spatial coincidence [20]. When multiple sensory components of a stimulus are presented in the same location, the nervous system response is superadditive. We have shown that this can be a mechanism of connectivity-activation encoding in dBVs. In future work, we will seek to understand multisensory integration as a function of the representational layer (CGS).
 
 Lastly, the CGS representation allows for membership functions of objects to be derived for multiple categories. For example, suppose we assume all objects are a combination of aggression-provoking, cowardness-provoking, and love-provoking. A particular stimulus is classified as 55 percent aggression-provoking, 30 percent cowardness-provoking, and 10 percent love-provoking. This allows us to refine the classification of objects in the environment, and contributes to ambiguous or novel intermediate behaviors.
+
 <p align="center">
   <H3>References</H3>
 </p>
-[1] Lyon, P. (2019).  Of what is ”minimal cognition” the half-baked version? _Adaptive Behavior_, 1–18.
+
+[1] Lyon, P. (2019).  Of what is ”minimal cognition” the half-baked version? _Adaptive Behavior_, 1–18.  
 
 [2] Levins, R. (2006). Strategies of abstraction. _Biology and Philosophy_, (21), 741–755.
 
