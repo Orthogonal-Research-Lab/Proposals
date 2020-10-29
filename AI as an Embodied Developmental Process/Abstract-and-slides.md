@@ -85,5 +85,5 @@ We will demonstrate examples for each of these points using developmental Braite
   <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/AI%20as%20an%20Embodied%20Developmental%20Process/Slide26.png">
 </P>
 <P>
-  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/AI%20as%20an%20Embodied%20Developmental%20Process/Slide27.png">
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/AI%20as%20an%20Embodied%20Developmental%20Process/last-slide.png">
 </P>
