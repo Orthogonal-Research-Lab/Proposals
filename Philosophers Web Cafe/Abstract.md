@@ -4,3 +4,191 @@ In many areas of science and philosophy, observers are seen as an integral part 
   <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Observer-dependent%20Models-1.png">
   </CENTER>
 </P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide2.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide3.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide4.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide5.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide6.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide7.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide8.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide9.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide10.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide11.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide13.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide14.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide15.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide16.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide17.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide18.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide19.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide20.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide21.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide22.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide23.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide24.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide25.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide26.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide27.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide28.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide29.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide30.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide31.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide32.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide33.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide34.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide35.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide36.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide37.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide38.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide39.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide40.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide41.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide42.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide43.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide44.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide45.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide46.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide47.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide48.png">
+  </CENTER>
+</P>
+<P><CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Philosophers%20Web%20Cafe/Slides/Slide49.png">
+  </CENTER>
+</P>
