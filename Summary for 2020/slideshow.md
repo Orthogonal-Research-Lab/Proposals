@@ -30,7 +30,7 @@
 </P>
 <P>
 <CENTER>
-  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Summary%20for%202020/Slides/Slide-6.5.png">
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Summary%20for%202020/Slides/Slide-6-5.png">
     </CENTER>
 </P>
 <P>
