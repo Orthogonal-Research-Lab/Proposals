@@ -35,6 +35,11 @@
 </P>
 <P>
 <CENTER>
+  <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Summary%20for%202020/Slides/Slide-6-75.png">
+    </CENTER>
+</P>
+<P>
+<CENTER>
   <IMG SRC = "https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/Summary%20for%202020/Slides/Slide7.png">
     </CENTER>
 </P>
