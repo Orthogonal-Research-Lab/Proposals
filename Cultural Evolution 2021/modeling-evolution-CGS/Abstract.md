@@ -1,0 +1,8 @@
+## Examining Cultural Evolution with Contextual Geometric Structures  
+
+How do we integrate the evolutionary dynamics of populations with the cultural context of individual minds? One way involves combining common ancestry approaches to cultural evolution with a dynamical representation of the cultural milieu. This yields a flexible representation of complex cultural systems, encompassing trees (logistic maps and phylogenies) and highly-reticulating (fractal structures and hairball networks) structures alike. 
+
+We characterize the outputs of Contextual Geometric Structures (CGS) in the context of nonlinear and cyclic outputs. CGS models are computational kernels that represent cultural phenomena in conceptual space. CGS kernels draw from a number of theoretical concepts, including: conceptual blending, structuralism/post-structuralism, and fuzzy computation. A single CGS can be of any shape, and are used to classify perceptual inputs as singular or multiple semantic interpretations. These shapes are mapped to natural phenomena such as light, temperature, and rotational forces that a population of individuals might encounter via sensory experience. In a similar way, multiple cultural contexts can be represented in the same space, which can be accessed by a single agent, or even multiple agents. 
+
+We will show how agent-based models of cultural dynamics can be used to unlock the potential of neural representational models. CGS kernels can also be combined with connectionist and agent-based models to yield multiple representations of the cognitive world. Most relevant to cultural evolution, CGS kernels provide a generative model of cultural diversity, which allows us to examine the combinatorial richness of the evolutionary process. 
+
