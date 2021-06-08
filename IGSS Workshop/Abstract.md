@@ -6,4 +6,126 @@ We further propose that the meta-brained agent architecture can be utilized in a
 
 The meta-brains project currently involves three aims: creating models with different degrees of representational complexity, creating a layered meta-architecture that mimics the structural and functional heterogeneity of biological brains, and an input/output methodology that is flexible enough to accommodate behavioral and social phenomena alike. We will conclude by proposing next steps in the development of this flexible and open-source approach.
 
-
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide1.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide2.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide3.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide4.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide5.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide6.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide7.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide8.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide9.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide10.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide11.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide12.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide13.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide14.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide15.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide16.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide17.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide18.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide19.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide20.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide21.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide22.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide23.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide24.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide25.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide26.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide27.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide28.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide29.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide30.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide31.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide32.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide33.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide34.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide35.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide36.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide37.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide38.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide39.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide40.png">
+</P>
+<P align=center>
+  <IMG SRC="https://github.com/Orthogonal-Research-Lab/Proposals/blob/master/IGSS%20Workshop/Slides/Slide41.png">
+</P>
